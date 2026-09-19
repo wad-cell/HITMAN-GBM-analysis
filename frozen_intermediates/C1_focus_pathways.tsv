@@ -1,0 +1,38 @@
+db	pathway	GSE_C4	GSE_C5	EMTAB_U87MG_TTFields	EMTAB_U87MG_DBS	EMTAB_KNS42_TTFields	EMTAB_KNS42_DBS	EMTAB_GIN28_TTFields	EMTAB_GIN28_DBS
+HALLMARK	Apoptosis	1.293	1.48*	-1.73*	1.40*	-1.73*	-1.73*	-1.63*	-1.68*
+HALLMARK	Cholesterol Homeostasis	1.90*	1.92*	-1.82*	1.51*	-1.65*	-1.65*	-1.97*	-1.99*
+HALLMARK	E2F Targets	-2.32*	-2.18*	-1.97*	2.85*	-2.28*	-2.25*	-2.12*	-2.14*
+HALLMARK	Inflammatory Response	1.59*	1.127	-1.095	1.159	-0.823	-0.964	-0.908	-1.018
+HALLMARK	Interferon Gamma Response	-0.947	1.127	-1.174	0.871	-1.39*	-1.35*	-0.938	-0.931
+HALLMARK	Myc Targets V1	-1.94*	-1.64*	-2.48*	2.69*	-2.61*	-2.60*	-2.39*	-2.41*
+HALLMARK	Reactive Oxygen Species Pathway	-0.994	-0.976	-2.00*	1.74*	-2.01*	-2.03*	-1.96*	-1.86*
+HALLMARK	TNF-alpha Signaling via NF-kB	1.83*	1.90*	-1.133	1.51*	-1.22	-1.36*	-1.152	-1.268
+HALLMARK	Unfolded Protein Response	-1.45*	-1.329	-2.20*	-1.92*	-2.00*	-2.15*	-1.91*	-1.97*
+HALLMARK	mTORC1 Signaling	1.33*	-1.61*	-2.39*	1.71*	-2.16*	-2.24*	-2.18*	-2.23*
+HALLMARK	p53 Pathway	1.43*	1.55*	-1.41*	1.027	-1.277	-1.35*	-1.283	-1.25
+REACTOME	Activation Of Gene Expression By SREBF (SREBP) R-HSA-2426168	1.97*	1.85*	-0.745	1.73*	-0.874	-0.901	-1.77*	-1.78*
+REACTOME	Apoptosis R-HSA-109581	-1.86*	-1.48*	-2.09*	2.14*	-2.17*	-2.09*	-1.95*	-1.95*
+REACTOME	Autophagy R-HSA-9612973	1.351	1.83*	-2.22*	1.55*	-2.13*	-2.06*	-2.05*	-2.01*
+REACTOME	Cell Cycle Checkpoints R-HSA-69620	-1.65*	-1.68*	-2.03*	2.73*	-2.24*	-2.18*	-2.02*	-2.06*
+REACTOME	Cellular Response To Heat Stress R-HSA-3371556	1.368	1.94*	-1.95*	2.16*	-2.03*	-2.06*	-1.93*	-2.04*
+REACTOME	Cholesterol Biosynthesis R-HSA-191273	2.18*	2.17*	-1.074	2.02*	-0.803	-0.963	-2.00*	-1.98*
+REACTOME	DDX58/IFIH1-mediated Induction Of Interferon-Alpha/Beta R-HSA-168928	1.356	1.78*	-1.51*	1.56*	-1.55*	-1.492	-1.57*	-1.371
+REACTOME	Detoxification Of Reactive Oxygen Species R-HSA-3299685	0.94	-0.975	-1.79*	1.522	-1.68*	-1.78*	-1.84*	-1.92*
+REACTOME	E2F Mediated Regulation Of DNA Replication R-HSA-113510	0.866	-1.152	-1.529	2.02*	-1.53	-1.562	-1.80*	-1.74*
+REACTOME	IRE1alpha Activates Chaperones R-HSA-381070	-1.27	1.184	-2.02*	-2.10*	-1.469	-1.63*	-1.63*	-1.74*
+REACTOME	Interferon Alpha/Beta Signaling R-HSA-909733	-1.189	0.936	-0.915	0.794	-1.324	-1.44	-0.862	-0.969
+REACTOME	Interferon Gamma Signaling R-HSA-877300	-1.06	1.235	0.962	-1.009	-0.83	-0.836	-0.796	-0.823
+REACTOME	Interferon Signaling R-HSA-913531	-1.023	1.207	-1.38*	1.51*	-1.66*	-1.65*	-1.45*	-1.51*
+REACTOME	Intrinsic Pathway For Apoptosis R-HSA-109606	-1.067	-0.907	-1.84*	1.87*	-1.92*	-1.89*	-1.77*	-1.79*
+REACTOME	Lysosome Vesicle Biogenesis R-HSA-432720	-1.008	1.107	-1.92*	1.573	-1.75*	-1.84*	-1.96*	-1.98*
+REACTOME	Macroautophagy R-HSA-1632852	1.399	1.81*	-2.21*	1.62*	-2.18*	-2.10*	-2.08*	-2.02*
+REACTOME	Regulation Of Apoptosis R-HSA-169911	-1.299	-0.883	-2.15*	2.51*	-2.30*	-2.27*	-2.12*	-2.17*
+REACTOME	Regulation Of Cholesterol Biosynthesis By SREBP (SREBF) R-HSA-1655829	2.02*	1.77*	-1.077	1.84*	-1.044	-1.172	-1.79*	-1.83*
+REACTOME	Regulation Of HSF1-mediated Heat Shock Response R-HSA-3371453	1.387	1.93*	-1.85*	2.10*	-2.02*	-2.05*	-1.86*	-1.96*
+REACTOME	Regulation Of TP53 Activity R-HSA-5633007	-1.089	-0.975	-1.87*	2.19*	-1.93*	-1.84*	-1.72*	-1.76*
+REACTOME	TNF Signaling R-HSA-75893	1.227	0.817	-1.78*	1.173	-1.499	-1.516	-1.77*	-1.72*
+REACTOME	TNFR1-induced NFkappaB Signaling Pathway R-HSA-5357956	0.916	-0.845	-1.536	0.907	-1.239	-1.421	-1.58*	-1.543
+REACTOME	TP53 Regulates Transcription Of Cell Cycle Genes R-HSA-6791312	1.039	-1.21	-1.76*	2.14*	-1.71*	-1.87*	-1.76*	-1.76*
+REACTOME	Unfolded Protein Response (UPR) R-HSA-381119	-1.255	-1.133	-2.10*	-1.93*	-1.69*	-1.86*	-1.78*	-1.85*
+REACTOME	XBP1(S) Activates Chaperone Genes R-HSA-381038	-1.321	1.119	-1.98*	-1.81*	-1.464	-1.61*	-1.59*	-1.71*
+REACTOME	mTORC1-mediated Signaling R-HSA-166208	1.049	1.096	-1.88*	1.051	-1.94*	-1.87*	-1.96*	-1.84*
