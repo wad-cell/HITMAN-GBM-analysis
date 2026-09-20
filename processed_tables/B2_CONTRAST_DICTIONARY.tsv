@@ -1,0 +1,6 @@
+contrast_id	contrast_definition	math_definition	numerator_group	denominator_group	interpretation	primary
+C1	ND-F − ND-NF	ND-F minus ND-NF	T.Cells_Q, T.Cells_P, T.Cells_N, T.Cells_M	UT.Cells_A through UT.Cells_F	Field effect without MAN	No
+C2	MAN-NF − ND-NF	MAN-NF minus ND-NF	UT.NPs_H through UT.NPs_L	UT.Cells_A through UT.Cells_F	MAN effect without Field	No
+C3	MAN-F − MAN-NF	MAN-F minus MAN-NF	T.NPs_S through T.NPs_X	UT.NPs_H through UT.NPs_L	Field effect in presence of MAN	No
+C4	MAN-F − ND-NF	MAN-F minus ND-NF	T.NPs_S through T.NPs_X	UT.Cells_A through UT.Cells_F	Total HITMAN-associated response	No
+C5	(MAN-F − MAN-NF) − (ND-F − ND-NF)	(MAN-F minus MAN-NF) minus (ND-F minus ND-NF)	All four groups	All four groups	Primary interaction (HITMAN-specific response)	Yes

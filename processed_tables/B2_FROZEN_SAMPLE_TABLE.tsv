@@ -1,0 +1,21 @@
+matrix_col	condition	MAN	Field	group_short	n	treatment_full	gsm	gsm_title	sra_run	spots	layout	in_matrix	sensitivity_exclude
+T.Cells_M	ND-F	MAN	F	ND-F	4	No device under magnetic field	GSM9581733	T-Cells_M			PAIRED	Y	
+T.Cells_N	ND-F	MAN	F	ND-F	4	No device under magnetic field	GSM9581734	T-Cells_N			PAIRED	Y	
+T.Cells_P	ND-F	MAN	F	ND-F	4	No device under magnetic field	GSM9581736	T-Cells_P			PAIRED	Y	
+T.Cells_Q	ND-F	MAN	F	ND-F	4	No device under magnetic field	GSM9581737	T-Cells_Q			PAIRED	Y	S
+T.NPs_S	MAN-F	MAN	F	MAN-F	5	MANs under magnetic field	GSM9581739	T-NPs_S			PAIRED	Y	
+T.NPs_T	MAN-F	MAN	F	MAN-F	5	MANs under magnetic field	GSM9581740	T-NPs_T			PAIRED	Y	
+T.NPs_U	MAN-F	MAN	F	MAN-F	5	MANs under magnetic field	GSM9581741	T-NPs_U			PAIRED	Y	
+T.NPs_V	MAN-F	MAN	F	MAN-F	5	MANs under magnetic field	GSM9581742	T-NPs_V			PAIRED	Y	
+T.NPs_X	MAN-F	MAN	F	MAN-F	5	MANs under magnetic field	GSM9581744	T-NPs_X			PAIRED	Y	
+UT.Cells_A	ND-NF	ND	NF	ND-NF	6	No device without magnetic field	GSM9581721	UT-Cells_A			PAIRED	Y	
+UT.Cells_B	ND-NF	ND	NF	ND-NF	6	No device without magnetic field	GSM9581722	UT-Cells_B			PAIRED	Y	
+UT.Cells_C	ND-NF	ND	NF	ND-NF	6	No device without magnetic field	GSM9581723	UT-Cells_C			PAIRED	Y	
+UT.Cells_D	ND-NF	ND	NF	ND-NF	6	No device without magnetic field	GSM9581724	UT-Cells_D			PAIRED	Y	
+UT.Cells_E	ND-NF	ND	NF	ND-NF	6	No device without magnetic field	GSM9581725	UT-Cells_E			PAIRED	Y	
+UT.Cells_F	ND-NF	ND	NF	ND-NF	6	No device without magnetic field	GSM9581726	UT-Cells_F			PAIRED	Y	
+UT.NPs_H	MAN-NF	MAN	NF	MAN-NF	5	MANs without magnetic field	GSM9581728	UT-NPs_H			PAIRED	Y	
+UT.NPs_I	MAN-NF	MAN	NF	MAN-NF	5	MANs without magnetic field	GSM9581729	UT-NPs_I			PAIRED	Y	
+UT.NPs_J	MAN-NF	MAN	NF	MAN-NF	5	MANs without magnetic field	GSM9581730	UT-NPs_J			PAIRED	Y	
+UT.NPs_K	MAN-NF	MAN	NF	MAN-NF	5	MANs without magnetic field	GSM9581731	UT-NPs_K			PAIRED	Y	
+UT.NPs_L	MAN-NF	MAN	NF	MAN-NF	5	MANs without magnetic field	GSM9581732	UT-NPs_L			PAIRED	Y	

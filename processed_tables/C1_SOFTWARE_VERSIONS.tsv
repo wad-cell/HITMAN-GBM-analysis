@@ -1,0 +1,15 @@
+component	version	role	platform_annot
+R	4.6.1 (ucrt)	platform	na
+oligo	1.76.0	CEL reading + RMA + annotation	pd.clariomshuman / clariomshumantranscriptcluster.db 8.8.0
+limma	3.68.4	differential analysis (eBayes)	na
+fgsea	1.38.0	prerank GSEA (Hallmark/Reactome)	na
+msigdbr	26.1.0	gene sets	na
+clusterProfiler	4.20.0	(installed, sets sourced via msigdbr/fgsea)	na
+AnnotationDbi	1.74.0	gene annotation	na
+Biobase	2.72.0	core	na
+oligoClasses	1.74.0	array package	na
+Python	3.11.8	rank-overlap / concordance	na
+pandas	2.3.3	dataframe	na
+numpy	2.4.6	array	na
+scipy	1.17.1	statistics	na
+GSE324656_engine	R/DESeq2 1.52.0 (frozen; PyDESeq2 0.5.4 = evidence)	cross-platform frozen primary engine (B3.5)	na

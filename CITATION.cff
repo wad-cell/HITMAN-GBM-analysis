@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this code or these processed result tables, please cite the study (citation metadata finalised at release)."
+title: "HITMAN factorial-specificity / comparative-electrotherapy study: analysis code, processed result tables and figure-generation scripts"
+type: software
+license: MIT
+abstract: "Analysis code, frozen processed (non-identifiable) result tables and figure-generation scripts for the HITMAN factorial-specificity / comparative-electrotherapy study. Figures are renders of the frozen result tables; no re-analysis is required to reproduce them."
+keywords:
+  - glioblastoma
+  - single-cell RNA sequencing
+  - factorial design
+  - tumour-treating fields
+  - reproducibility
+authors:
+  - name: "Jing Deng"
+    affiliation: "Department of Neurosurgery, Neurosurgery Research Institute, The First Affiliated Hospital, Fujian Medical University, Fuzhou 350005, Fujian, China."
+    email: "365742739@qq.com"
+  - name: "Ying Wang"
+    affiliation: "Department of Neurosurgery, Neurosurgery Research Institute, The First Affiliated Hospital, Fujian Medical University, Fuzhou 350005, Fujian, China."
+  - name: "Jiateng Zeng"
+    affiliation: "Department of Neurosurgery, Neurosurgery Research Institute, The First Affiliated Hospital, Fujian Medical University, Fuzhou 350005, Fujian, China."
+  - name: "Lianghong Yu"
+    affiliation: "Department of Neurosurgery, Neurosurgery Research Institute, The First Affiliated Hospital, Fujian Medical University, Fuzhou 350005, Fujian, China."
+  - name: "Hongliang Ge"
+    affiliation: "Department of Neurosurgery, Neurosurgery Research Institute, The First Affiliated Hospital, Fujian Medical University, Fuzhou 350005, Fujian, China."
+    email: "yangguang5716@163.com"
+version: "1.0"
+date-released: "TODO"
+# AUTHOR INPUT REQUIRED: ORCID identifiers, GitHub username(s) and the final copyright holder are not asserted.
+# NOTE: repository URL and DOI are intentionally absent; they are assigned at release time.

@@ -1,0 +1,3 @@
+figure	panel	plotted_metric	source_file	plotted_value
+FigS4	AB	delta	unified/LayerA state tests	
+FigS4	C	loo_flips_top	ss2_lopo.tsv	AUC_M_HSF1_heat_shock_CCDEP=0.0

@@ -1,0 +1,41 @@
+assay	source	cell_line_factor	stimulus_factor	cell_line_char	organism	disease	array_design	data_file
+GOV_1_Clariom_S_Human	G0V 1	GIN-28	none	GIN-28	Homo sapiens	glioblastoma multiforme	A-GEOD-23159	GOV_1_Clariom_S_Human.CEL
+GOV_2_Clariom_S_Human	G0V 2	GIN-28	none	GIN-28	Homo sapiens	glioblastoma multiforme	A-GEOD-23159	GOV_2_Clariom_S_Human.CEL
+GOV_3_Clariom_S_Human	G0V 3	GIN-28	none	GIN-28	Homo sapiens	glioblastoma multiforme	A-GEOD-23159	GOV_3_Clariom_S_Human.CEL
+GOV_4_Clariom_S_Human	G0V 4	GIN-28	none	GIN-28	Homo sapiens	glioblastoma multiforme	A-GEOD-23159	GOV_4_Clariom_S_Human.CEL
+GOV_5_Clariom_S_Human	G0V 5	GIN-28	none	GIN-28	Homo sapiens	glioblastoma multiforme	A-GEOD-23159	GOV_5_Clariom_S_Human.CEL
+G10_1a_Clariom_S_Human	G10 1a	GIN-28	Deep Brain Stimulation electric field (10V)	GIN-28	Homo sapiens	glioblastoma multiforme	A-GEOD-23159	G10_1a_Clariom_S_Human.CEL
+G10_2a_Clariom_S_Human	G10 2a	GIN-28	Deep Brain Stimulation electric field (10V)	GIN-28	Homo sapiens	glioblastoma multiforme	A-GEOD-23159	G10_2a_Clariom_S_Human.CEL
+G10_3a_Clariom_S_Human	G10 3a	GIN-28	Deep Brain Stimulation electric field (10V)	GIN-28	Homo sapiens	glioblastoma multiforme	A-GEOD-23159	G10_3a_Clariom_S_Human.CEL
+G10_4a_Clariom_S_Human	G10 4a	GIN-28	Deep Brain Stimulation electric field (10V)	GIN-28	Homo sapiens	glioblastoma multiforme	A-GEOD-23159	G10_4a_Clariom_S_Human.CEL
+G10_5a_Clariom_S_Human	G10 5a	GIN-28	Deep Brain Stimulation electric field (10V)	GIN-28	Homo sapiens	glioblastoma multiforme	A-GEOD-23159	G10_5a_Clariom_S_Human.CEL
+G200_1a_Clariom_S_Human	G200 1a	GIN-28	Tumor Treating Fields (200KHz)	GIN-28	Homo sapiens	glioblastoma multiforme	A-GEOD-23159	G200_1a_Clariom_S_Human.CEL
+G200_2a_Clariom_S_Human	G200 2a	GIN-28	Tumor Treating Fields (200KHz)	GIN-28	Homo sapiens	glioblastoma multiforme	A-GEOD-23159	G200_2a_Clariom_S_Human.CEL
+G200_3a_Clariom_S_Human	G200 3a	GIN-28	Tumor Treating Fields (200KHz)	GIN-28	Homo sapiens	glioblastoma multiforme	A-GEOD-23159	G200_3a_Clariom_S_Human.CEL
+G200_4a_Clariom_S_Human	G200 4a	GIN-28	Tumor Treating Fields (200KHz)	GIN-28	Homo sapiens	glioblastoma multiforme	A-GEOD-23159	G200_4a_Clariom_S_Human.CEL
+G200_5a_Clariom_S_Human	G200 5a	GIN-28	Tumor Treating Fields (200KHz)	GIN-28	Homo sapiens	glioblastoma multiforme	A-GEOD-23159	G200_5a_Clariom_S_Human.CEL
+KOV_1_Clariom_S_Human	K0V 1	KNS-42	none	KNS-42	Homo sapiens	glioblastoma	A-GEOD-23159	KOV_1_Clariom_S_Human.CEL
+KOV_2_Clariom_S_Human	K0V 2	KNS-42	none	KNS-42	Homo sapiens	glioblastoma	A-GEOD-23159	KOV_2_Clariom_S_Human.CEL
+KOV_3_Clariom_S_Human	K0V 3	KNS-42	none	KNS-42	Homo sapiens	glioblastoma	A-GEOD-23159	KOV_3_Clariom_S_Human.CEL
+KOV_4_Clariom_S_Human	K0V 4	KNS-42	none	KNS-42	Homo sapiens	glioblastoma	A-GEOD-23159	KOV_4_Clariom_S_Human.CEL
+KOV_5_Clariom_S_Human	K0V 5	KNS-42	none	KNS-42	Homo sapiens	glioblastoma	A-GEOD-23159	KOV_5_Clariom_S_Human.CEL
+K10_a1_Clariom_S_Human	K10 a1	KNS-42	Deep Brain Stimulation electric field (10V)	KNS-42	Homo sapiens	glioblastoma	A-GEOD-23159	K10_a1_Clariom_S_Human.CEL
+K10_a2_Clariom_S_Human	K10 a2	KNS-42	Deep Brain Stimulation electric field (10V)	KNS-42	Homo sapiens	glioblastoma	A-GEOD-23159	K10_a2_Clariom_S_Human.CEL
+K10_a3_Clariom_S_Human	K10 a3	KNS-42	Deep Brain Stimulation electric field (10V)	KNS-42	Homo sapiens	glioblastoma	A-GEOD-23159	K10_a3_Clariom_S_Human.CEL
+K10_a4_Clariom_S_Human	K10 a4	KNS-42	Deep Brain Stimulation electric field (10V)	KNS-42	Homo sapiens	glioblastoma	A-GEOD-23159	K10_a4_Clariom_S_Human.CEL
+K10_a5_Clariom_S_Human	K10 a5	KNS-42	Deep Brain Stimulation electric field (10V)	KNS-42	Homo sapiens	glioblastoma	A-GEOD-23159	K10_a5_Clariom_S_Human.CEL
+K200_a1_Clariom_S_Human	K200 a1	KNS-42	Tumor Treating Fields (200KHz)	KNS-42	Homo sapiens	glioblastoma	A-GEOD-23159	K200_a1_Clariom_S_Human.CEL
+K200_a2_Clariom_S_Human	K200 a2	KNS-42	Tumor Treating Fields (200KHz)	KNS-42	Homo sapiens	glioblastoma	A-GEOD-23159	K200_a2_Clariom_S_Human.CEL
+K200_a3_Clariom_S_Human	K200 a3	KNS-42	Tumor Treating Fields (200KHz)	KNS-42	Homo sapiens	glioblastoma	A-GEOD-23159	K200_a3_Clariom_S_Human.CEL
+K200_a4_Clariom_S_Human	K200 a4	KNS-42	Tumor Treating Fields (200KHz)	KNS-42	Homo sapiens	glioblastoma	A-GEOD-23159	K200_a4_Clariom_S_Human.CEL
+U10_V1_Clariom_S_Human	U10 V1	U87-MG	Deep Brain Stimulation electric field (10V)	U87-MG	Homo sapiens	glioblastoma	A-GEOD-23159	U10_V1_Clariom_S_Human.CEL
+U10_V2_Clariom_S_Human	U10 V2	U87-MG	Deep Brain Stimulation electric field (10V)	U87-MG	Homo sapiens	glioblastoma	A-GEOD-23159	U10_V2_Clariom_S_Human.CEL
+U10_V3_Clariom_S_Human	U10 V3	U87-MG	Deep Brain Stimulation electric field (10V)	U87-MG	Homo sapiens	glioblastoma	A-GEOD-23159	U10_V3_Clariom_S_Human.CEL
+U10_V4_Clariom_S_Human	U10 V4	U87-MG	Deep Brain Stimulation electric field (10V)	U87-MG	Homo sapiens	glioblastoma	A-GEOD-23159	U10_V4_Clariom_S_Human.CEL
+U10_V5_Clariom_S_Human	U10 V5	U87-MG	Deep Brain Stimulation electric field (10V)	U87-MG	Homo sapiens	glioblastoma	A-GEOD-23159	U10_V5_Clariom_S_Human.CEL
+U200_1a_Clariom_S_Human	U200 1a	U87-MG	Tumor Treating Fields (200KHz)	U87-MG	Homo sapiens	glioblastoma	A-GEOD-23159	U200_1a_Clariom_S_Human.CEL
+U200_2a_Clariom_S_Human	U200 2a	U87-MG	Tumor Treating Fields (200KHz)	U87-MG	Homo sapiens	glioblastoma	A-GEOD-23159	U200_2a_Clariom_S_Human.CEL
+U200_3a_Clariom_S_Human	U200 3a	U87-MG	Tumor Treating Fields (200KHz)	U87-MG	Homo sapiens	glioblastoma	A-GEOD-23159	U200_3a_Clariom_S_Human.CEL
+U200_4a_Clariom_S_Human	U200 4a	U87-MG	Tumor Treating Fields (200KHz)	U87-MG	Homo sapiens	glioblastoma	A-GEOD-23159	U200_4a_Clariom_S_Human.CEL
+U87_UOV_1_Clariom_S_Human	U87 U0V 1	U87-MG	none	U87-MG	Homo sapiens	glioblastoma	A-GEOD-23159	U87_UOV_1_Clariom_S_Human.CEL
+U87_UOV_2_Clariom_S_Human	U87 U0V 2	U87-MG	none	U87-MG	Homo sapiens	glioblastoma	A-GEOD-23159	U87_UOV_2_Clariom_S_Human.CEL

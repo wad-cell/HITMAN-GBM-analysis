@@ -1,0 +1,25 @@
+matrix_col	in_matrix	gsm	gsm_title	group_short	treatment_full	library	sra_run	spots	bases	layout
+UT.Cells_A	Y	GSM9581721	UT-Cells_A	ND-NF	No device without magnetic field (ND-NF)	Library name: D23-230001	SRR37588379	25205662	2016452960	PAIRED
+UT.Cells_B	Y	GSM9581722	UT-Cells_B	ND-NF	No device without magnetic field (ND-NF)	Library name: D23-230002	SRR37588378	12675343	1014027440	PAIRED
+UT.Cells_C	Y	GSM9581723	UT-Cells_C	ND-NF	No device without magnetic field (ND-NF)	Library name: D23-230003	SRR37588377	21688644	1735091520	PAIRED
+UT.Cells_D	Y	GSM9581724	UT-Cells_D	ND-NF	No device without magnetic field (ND-NF)	Library name: D23-230004	SRR37588376	9362895	749031600	PAIRED
+UT.Cells_E	Y	GSM9581725	UT-Cells_E	ND-NF	No device without magnetic field (ND-NF)	Library name: D23-230005	SRR37588375	15645120	1251609600	PAIRED
+UT.Cells_F	Y	GSM9581726	UT-Cells_F	ND-NF	No device without magnetic field (ND-NF)	Library name: D23-230006	SRR37588374	19134603	1530768240	PAIRED
+(excluded)	N	GSM9581727	UT-NPs_G	MAN-NF	MANs without magnetic field (MAN-NF)	Library name: D23-230007	SRR37588373	50	4000	PAIRED
+UT.NPs_H	Y	GSM9581728	UT-NPs_H	MAN-NF	MANs without magnetic field (MAN-NF)	Library name: D23-230008	SRR37588372	24781782	1982542560	PAIRED
+UT.NPs_I	Y	GSM9581729	UT-NPs_I	MAN-NF	MANs without magnetic field (MAN-NF)	Library name: D23-230009	SRR37588371	21277041	1702163280	PAIRED
+UT.NPs_J	Y	GSM9581730	UT-NPs_J	MAN-NF	MANs without magnetic field (MAN-NF)	Library name: D23-230010	SRR37588370	9368490	749479200	PAIRED
+UT.NPs_K	Y	GSM9581731	UT-NPs_K	MAN-NF	MANs without magnetic field (MAN-NF)	Library name: D23-230011	SRR37588369	17165953	1373276240	PAIRED
+UT.NPs_L	Y	GSM9581732	UT-NPs_L	MAN-NF	MANs without magnetic field (MAN-NF)	Library name: D23-230012	SRR37588368	17630097	1410407760	PAIRED
+T.Cells_M	Y	GSM9581733	T-Cells_M	ND-F	No device under magnetic field (ND-F)	Library name: D23-230013	SRR37588367	19390766	1551261280	PAIRED
+T.Cells_N	Y	GSM9581734	T-Cells_N	ND-F	No device under magnetic field (ND-F)	Library name: D23-230014	SRR37588366	7571650	605732000	PAIRED
+(excluded)	N	GSM9581735	T-Cells_O	ND-F	No device under magnetic field (ND-F)	Library name: D23-230015	SRR37588365	1	80	PAIRED
+T.Cells_P	Y	GSM9581736	T-Cells_P	ND-F	No device under magnetic field (ND-F)	Library name: D23-230016	SRR37588364	39509580	3160766400	PAIRED
+T.Cells_Q	Y	GSM9581737	T-Cells_Q	ND-F	No device under magnetic field (ND-F)	Library name: D23-230017	SRR37588363	11368638	909491040	PAIRED
+(excluded)	N	GSM9581738	T-Cells_R	ND-F	No device under magnetic field (ND-F)	Library name: D23-230018	SRR37588362	1047979	83838320	PAIRED
+T.NPs_S	Y	GSM9581739	T-NPs_S	MAN-F	MANs under magnetic field (MAN-F)	Library name: D23-230019	SRR37588361	31471875	2517750000	PAIRED
+T.NPs_T	Y	GSM9581740	T-NPs_T	MAN-F	MANs under magnetic field (MAN-F)	Library name: D23-230020	SRR37588360	28897801	2311824080	PAIRED
+T.NPs_U	Y	GSM9581741	T-NPs_U	MAN-F	MANs under magnetic field (MAN-F)	Library name: D23-230021	SRR37588359	37072119	2965769520	PAIRED
+T.NPs_V	Y	GSM9581742	T-NPs_V	MAN-F	MANs under magnetic field (MAN-F)	Library name: D23-230022	SRR37588358	21110348	1688827840	PAIRED
+(excluded)	N	GSM9581743	T-NPs_W	MAN-F	MANs under magnetic field (MAN-F)	Library name: D23-230023	SRR37588357	10	800	PAIRED
+T.NPs_X	Y	GSM9581744	T-NPs_X	MAN-F	MANs under magnetic field (MAN-F)	Library name: D23-230024	SRR37588356	33273083	2661846640	PAIRED

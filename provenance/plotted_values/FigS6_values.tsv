@@ -1,0 +1,6 @@
+figure	panel	plotted_metric	source_file	plotted_value
+FigS6	A	cells/patients	C2_LAYERB_STATE_TESTS.tsv	MES|11|3
+FigS6	A	cells/patients	C2_LAYERB_STATE_TESTS.tsv	AC|4|2
+FigS6	A	cells/patients	C2_LAYERB_STATE_TESTS.tsv	OPC|0|0
+FigS6	A	cells/patients	C2_LAYERB_STATE_TESTS.tsv	NPC|0|0
+FigS6	A	cells/patients	C2_LAYERB_STATE_TESTS.tsv	Cycling|12|3

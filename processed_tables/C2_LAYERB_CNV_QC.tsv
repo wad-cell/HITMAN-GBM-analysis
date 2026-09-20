@@ -1,0 +1,11 @@
+patient	sample	ref_cells	ref_mean	ref_sd	cnv_method	window_size	step	dynamic_threshold	lfc_clip	threshold_mean_plus_3sd	cnv_malignant_n	cnv_diploid_n	official_inherited_n	pool_malignant_n	note
+BT322	BT322	1050	0.01368	0.00656	infercnvpy.tl.infercnv	100	10	1.5	3	0.03338	16	3043	7	23	CNV on annotation-missing cells; official malignant inherited
+BT338	BT338_1of2	1050	0.01194	0.00685	infercnvpy.tl.infercnv	100	10	1.5	3	0.03248	9	384	0	9	CNV on annotation-missing cells; official malignant cells already in Layer A (excluded from Layer B pool)
+BT338	BT338_2of2	1050	0.01196	0.00696	infercnvpy.tl.infercnv	100	10	1.5	3	0.03283	22	904	4	26	CNV on annotation-missing cells; official malignant inherited
+BT363	BT363_1of2	1050	0.01199	0.00706	infercnvpy.tl.infercnv	100	10	1.5	3	0.03317	11	550	0	11	CNV on annotation-missing cells; official malignant cells already in Layer A (excluded from Layer B pool)
+BT363	BT363_2of2	1050	0.01305	0.00552	infercnvpy.tl.infercnv	100	10	1.5	3	0.0296	43	5250	0	43	CNV on annotation-missing cells; official malignant cells already in Layer A (excluded from Layer B pool)
+BT364	BT364_2of2	1050	0.01323	0.00582	infercnvpy.tl.infercnv	100	10	1.5	3	0.03069	30	3299	37	67	CNV on annotation-missing cells; official malignant inherited
+BT390	BT390	1050	0.01251	0.0055	infercnvpy.tl.infercnv	100	10	1.5	3	0.029	44	3532	0	44	CNV on annotation-missing cells; official malignant cells already in Layer A (excluded from Layer B pool)
+BT397	BT397_1of2	1050	0.01344	0.00706	infercnvpy.tl.infercnv	100	10	1.5	3	0.03464	15	2739	0	15	CNV on annotation-missing cells; official malignant cells already in Layer A (excluded from Layer B pool)
+BT397	BT397_2of2	1050	0.01373	0.00675	infercnvpy.tl.infercnv	100	10	1.5	3	0.03399	16	2929	0	16	CNV on annotation-missing cells; official malignant cells already in Layer A (excluded from Layer B pool)
+BT407	BT407	1050	0.01195	0.00694	infercnvpy.tl.infercnv	100	10	1.5	3	0.03278	2	102	6	8	CNV on annotation-missing cells; official malignant inherited

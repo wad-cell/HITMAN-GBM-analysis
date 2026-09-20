@@ -1,0 +1,12 @@
+claim_id	claim_sentence_to_audit	supporting_figures	direct_panel	figure_serves_claim	max_grade_allowed	word_audit	flag	note
+CC	不同电场相关转录反应呈 shared core + malignant-state-coupled context-specific programs 双层结构(association 语言)	Fig1D,Fig2C,Fig3B,Fig4B,Fig6C	Fig1D,Fig2C,Fig6C	yes	A/C composite	ok(association/convergence/contextualization)	PASS	必须在 CC 后紧跟 PARTIAL/异质性限定句(SC5)
+CC-alternate	使用 causal mechanism/universal GBM axis 版本	-	-	-	-	forbidden: mechanism/causal	FAIL(draft 变体)	仅用于内部审计，禁止进入正文
+SC1	shared antiproliferative/Cycling 反应为跨平台共享电疗转录程序并 reproducible 定位于 Cycling 恶性细胞	Fig1C,Fig2A,Fig3B,Fig4B,Fig5A,Fig6A/B	Fig2A(shared down),Fig4B(patient-level),Fig3B(Cycling enrich)	yes	A	ok; 禁 'kills cycling cells/clinical benefit'	PASS	U87MG_DBS outlier 注明
+SC2	经典 ER-UPR 下调为 shared 组分；Cycling 定位 A 级重复，MES 组分 sensitivity-dependent(B)	Fig2A,Fig3B,Fig4B,Fig6B	Fig2A,Fig6B(MES bar)	yes	A/B	ok 若带 sensitivity qualifier	PASS	MES 组分不带 qualifier 则 WARN→FAIL
+SC3	SREBP/TNF/p53/RIG-I(AC) 等 MES/AC context programs reproducible 富集 MES/AC；autophagy 与 RIG-I(MES) 仅 sensitivity/Discovery-only	Fig2B,Fig3B,Fig4B,Fig6B,SuppS2/S3	Fig2B(enriched NES),Fig6B(TCGA n44 MES)	yes	A/D(分别)	ok; D 级行只进 Supp	PASS	autophagy 必须带 sensitivity; RIGI MES 不得进 confirmatory
+SC4	C4_UP/DOWN 沿 MES/AC-Cycling 轴解离(A)；C5 系列与 C4_UP 轴关联并 MES/AC 方向一致，但 C5 仅 contextual/exploratory	Fig3A/B,Fig4C,Fig6A/B,Fig6C,SuppS8/S9	Fig3A(axis),Fig4C(C5 诊断),Fig6C(C5-C4UP overlay)	yes	A/C	forbidden(C5): validated/replicated/confirmed	PASS	C5_DOWN 仅作 CC 诊断图；C5 禁止支撑 CC
+SC5	存在 cohort heterogeneity/incomplete replication：跨队列部分一致(24/28)，CGGA 反号、HSF1 队列依赖、Layer B 不可检	Fig4D,Fig5D,Fig6C,Fig6D,SuppS4/S6/S8/S9	Fig4D(HSF1),Fig6C(反号高亮),Fig6D	yes	E/C/NA	ok(如实报告)	PASS	SC5 是 CC 的限定义务，不是可选项
+Fig-audit	Fig1A/B(设计/estimand)	无独立 claim	-	methodology/design	NA	ok	PASS	作为 Methods 图服务全部 claims；图注标注 non-causal 设计
+Fig-audit	Fig5C(random-null)、Supp S7	无独立 claim	-	methodology/control	NA	ok	PASS	null 对照服务 claims 的可信度；归 Methods/Supp
+Fig-audit	Fig6D 若删除则会漏 N1/N14	Fig6D	Fig6D	yes(SC5)	NA	ok	PASS	必须保留弱结果面板，禁只放显著
+word-audit	全文禁用词扫描	validated/replicated/confirmed(仅限 C5/HSF1 语境)、mechanism/causal/therapeutic benefit、'首次发现/完全证明'	-	-	-	违规即 FAIL	PASS(句集无违规)	Drafting 时以本表逐句再扫

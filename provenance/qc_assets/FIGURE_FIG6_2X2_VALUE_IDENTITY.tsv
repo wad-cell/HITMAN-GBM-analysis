@@ -1,0 +1,16 @@
+metric	value
+check_A_executed_panel_render_script	fig6_adonly.py
+check_A_executed_master_script	fig6_2x2.py
+check_A_axes_total_panel_render	8
+check_A_axes_total_master	8
+check_A_axes_with_identical_plotted_payload	5
+check_A_axes_only_in_panel_render	2
+check_A_axes_only_in_master	2
+check_A_verdict_panels_A_B_C	IDENTICAL
+check_A_panel_render_only_axes	ax6[0; 0.66] | ax7[0; 1; 2; 3; 4; 5; 6]
+check_A_master_only_axes	ax6[0.66; 9; 12] | ax7[0; 1; 2; 3; 4; 5; 6; 9; 12; 13]
+check_B_heatmap_and_forest_values_traced_to_frozen_tables	112
+check_B_bar_values_traced_to_frozen_tables	17
+check_B_untraceable_distinct_values	28
+check_B_untraceable_sample	-1; 0; 0.66; 0.8; 1; 2; 3; 4; 5; 6; 7; 8; 10; 11; 14; 15; 16; 17; 18; 19
+scientific_recalculation_in_this_audit	NO

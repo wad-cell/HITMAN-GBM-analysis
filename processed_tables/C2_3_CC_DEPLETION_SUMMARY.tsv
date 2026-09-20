@@ -1,0 +1,7 @@
+signature	original_n	unique_symbols	cellcycle_removed_n	remaining_n	removed_fraction_pct	remaining_detected_Neftel_SS2	remaining_detected_Neftel_10X	remaining_detected_Couturier	remaining_coverage_Neftel_SS2_pct	remaining_coverage_Neftel_10X_pct	remaining_coverage_Couturier_pct
+C4_UP	2545	2491	45	2446	1.81	2149	2155	2198	87.9	88.1	89.9
+C4_DOWN	2797	2698	141	2557	5.23	2212	2215	2257	86.5	86.6	88.3
+C5_UP	830	806	20	786	2.48	703	699	720	89.4	88.9	91.6
+C5_DOWN	1099	1065	66	999	6.2	852	850	864	85.3	85.1	86.5
+C5_STABLE_UP	682	680	16	664	2.35	599	601	617	90.2	90.5	92.9
+C5_STABLE_DOWN	920	912	62	850	6.8	731	730	739	86.0	85.9	86.9

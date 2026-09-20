@@ -1,0 +1,9 @@
+figure	panel	plotted_metric	source_file	plotted_value
+FigS8	C	loo_flips_top	ss2_lopo.tsv	AUC_C5_UP=0.0
+FigS8	C	loo_flips_top	ss2_lopo.tsv	AUC_C5_UP_CCDEP=0.0
+FigS8	C	loo_flips_top	ss2_lopo.tsv	AUC_C5_DOWN=12.0
+FigS8	C	loo_flips_top	ss2_lopo.tsv	AUC_C5_DOWN_CCDEP=0.0
+FigS8	C	loo_flips_top	ss2_lopo.tsv	AUC_C5_STABLE_UP=1.0
+FigS8	C	loo_flips_top	ss2_lopo.tsv	AUC_C5_STABLE_UP_CCDEP=1.0
+FigS8	C	loo_flips_top	ss2_lopo.tsv	AUC_C5_STABLE_DOWN=1.0
+FigS8	C	loo_flips_top	ss2_lopo.tsv	AUC_C5_STABLE_DOWN_CCDEP=0.0

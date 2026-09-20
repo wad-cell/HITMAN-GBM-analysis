@@ -1,0 +1,7 @@
+figure	panel	plotted_metric	source_file	plotted_value
+FigS2	AB	delta	C2_ss2_state_tests_unified.tsv | C2_couturier_layerA_state_tests_all.tsv	M_cholesterol_SREBP [Discovery] MES d=9.83, FDR=0.00375; AC d=16.60, FDR=0.0014; OPC d=5.26, FDR=0.436; NPC d=-23.12, FDR=0.000178; Cycling d=-3.27, FDR=0.0342
+FigS2	AB	delta	C2_ss2_state_tests_unified.tsv | C2_couturier_layerA_state_tests_all.tsv	M_cholesterol_SREBP [LayerA] MES d=19.92, FDR=0.00698; AC d=21.69, FDR=0.00465; OPC d=-5.83, FDR=0.195; NPC d=-17.95, FDR=0.00465; Cycling d=-8.53, FDR=0.0297
+FigS2	AB	delta	C2_ss2_state_tests_unified.tsv | C2_couturier_layerA_state_tests_all.tsv	M_TNF_NFkB [Discovery] MES d=27.13, FDR=7.63e-05; AC d=3.19, FDR=0.348; OPC d=-7.30, FDR=0.11; NPC d=0.76, FDR=0.954; Cycling d=-22.46, FDR=6.68e-05
+FigS2	AB	delta	C2_ss2_state_tests_unified.tsv | C2_couturier_layerA_state_tests_all.tsv	M_TNF_NFkB [LayerA] MES d=21.38, FDR=0.013; AC d=18.59, FDR=0.00465; OPC d=-7.93, FDR=0.136; NPC d=13.60, FDR=0.0959; Cycling d=-21.51, FDR=0.00465
+FigS2	AB	delta	C2_ss2_state_tests_unified.tsv | C2_couturier_layerA_state_tests_all.tsv	M_p53_apoptosis [Discovery] MES d=16.20, FDR=7.63e-05; AC d=2.46, FDR=0.348; OPC d=-10.65, FDR=0.00854; NPC d=-8.29, FDR=0.00582; Cycling d=-4.39, FDR=0.00758
+FigS2	AB	delta	C2_ss2_state_tests_unified.tsv | C2_couturier_layerA_state_tests_all.tsv	M_p53_apoptosis [LayerA] MES d=16.27, FDR=0.00698; AC d=11.09, FDR=0.00465; OPC d=-8.05, FDR=0.0509; NPC d=-10.66, FDR=0.0148; Cycling d=-0.78, FDR=0.626

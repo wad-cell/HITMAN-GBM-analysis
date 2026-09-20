@@ -1,0 +1,46 @@
+figure	file	width_px	height_px	dpi_x	dpi_y	color_mode	bytes	integrity	min_dpi_ok	size_ok	qc_status
+Fig1	figures\Fig1.tif	2880	2492	400	400	RGB	619480	OK	YES	YES	PASS
+Fig2	figures\Fig2.tif	2880	2784	400	400	RGB	535456	OK	YES	YES	PASS
+Fig3	figures\Fig3.tif	2880	3879	400	400	RGB	1203318	OK	YES	YES	PASS
+Fig4	figures\Fig4.tif	2880	4615	400	400	RGB	1516184	OK	YES	NO	PASS
+Fig5	figures\Fig5.tif	2880	5040	400	400	RGB	1512278	OK	YES	NO	PASS
+Fig6	figures\Fig6.tif	2960	5560	400	400	RGB	1205980	OK	YES	NO	PASS
+FigS1	figures\supplementary\FigS1.tif	2960	1499	400	400	RGB	498290	OK	YES	YES	PASS
+FigS2	figures\supplementary\FigS2.tif	2960	1379	400	400	RGB	390520	OK	YES	YES	PASS
+FigS3	figures\supplementary\FigS3.tif	2960	1252	400	400	RGB	380188	OK	YES	YES	PASS
+FigS4	figures\supplementary\FigS4.tif	2960	1090	400	400	RGB	294920	OK	YES	YES	PASS
+FigS5	figures\supplementary\FigS5.tif	2960	1819	400	400	RGB	594668	OK	YES	YES	PASS
+FigS6	figures\supplementary\FigS6.tif	2960	1336	400	400	RGB	348712	OK	YES	YES	PASS
+FigS7	figures\supplementary\FigS7.tif	3040	1286	400	400	RGB	642060	OK	YES	YES	PASS
+FigS8	figures\supplementary\FigS8.tif	3040	1166	400	400	RGB	293050	OK	YES	YES	PASS
+FigS9	figures\supplementary\FigS9.tif	3040	2640	400	400	RGB	593224	OK	YES	YES	PASS
+Fig1	figures\Fig1.png					RGB	305003	OK	YES	YES	INFO_PNG
+Fig1	figures\Fig1.pdf					vector/raster	36606	OK	n/a	YES	INFO_PDF
+Fig2	figures\Fig2.png					RGB	276973	OK	YES	YES	INFO_PNG
+Fig2	figures\Fig2.pdf					vector/raster	29670	OK	n/a	YES	INFO_PDF
+Fig3	figures\Fig3.png					RGB	452086	OK	YES	YES	INFO_PNG
+Fig3	figures\Fig3.pdf					vector/raster	30429	OK	n/a	YES	INFO_PDF
+Fig4	figures\Fig4.png					RGB	738545	OK	YES	YES	INFO_PNG
+Fig4	figures\Fig4.pdf					vector/raster	36550	OK	n/a	YES	INFO_PDF
+Fig5	figures\Fig5.png					RGB	835709	OK	YES	YES	INFO_PNG
+Fig5	figures\Fig5.pdf					vector/raster	38492	OK	n/a	YES	INFO_PDF
+Fig6	figures\Fig6.png					RGB	634133	OK	YES	YES	INFO_PNG
+Fig6	figures\Fig6.pdf					vector/raster	48378	OK	n/a	YES	INFO_PDF
+FigS1	figures\supplementary\FigS1.png					RGB	244275	OK	YES	YES	INFO_PNG
+FigS1	figures\supplementary\FigS1.pdf					vector/raster	23843	OK	n/a	YES	INFO_PDF
+FigS2	figures\supplementary\FigS2.png					RGB	175126	OK	YES	YES	INFO_PNG
+FigS2	figures\supplementary\FigS2.pdf					vector/raster	21805	OK	n/a	YES	INFO_PDF
+FigS3	figures\supplementary\FigS3.png					RGB	174682	OK	YES	YES	INFO_PNG
+FigS3	figures\supplementary\FigS3.pdf					vector/raster	23200	OK	n/a	YES	INFO_PDF
+FigS4	figures\supplementary\FigS4.png					RGB	140665	OK	YES	YES	INFO_PNG
+FigS4	figures\supplementary\FigS4.pdf					vector/raster	21519	OK	n/a	YES	INFO_PDF
+FigS5	figures\supplementary\FigS5.png					RGB	389283	OK	YES	YES	INFO_PNG
+FigS5	figures\supplementary\FigS5.pdf					vector/raster	27354	OK	n/a	YES	INFO_PDF
+FigS6	figures\supplementary\FigS6.png					RGB	165446	OK	YES	YES	INFO_PNG
+FigS6	figures\supplementary\FigS6.pdf					vector/raster	22618	OK	n/a	YES	INFO_PDF
+FigS7	figures\supplementary\FigS7.png					RGB	249440	OK	YES	YES	INFO_PNG
+FigS7	figures\supplementary\FigS7.pdf					vector/raster	26678	OK	n/a	YES	INFO_PDF
+FigS8	figures\supplementary\FigS8.png					RGB	141400	OK	YES	YES	INFO_PNG
+FigS8	figures\supplementary\FigS8.pdf					vector/raster	22555	OK	n/a	YES	INFO_PDF
+FigS9	figures\supplementary\FigS9.png					RGB	341298	OK	YES	YES	INFO_PNG
+FigS9	figures\supplementary\FigS9.pdf					vector/raster	30167	OK	n/a	YES	INFO_PDF

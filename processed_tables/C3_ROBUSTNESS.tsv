@@ -1,0 +1,107 @@
+analysis	cohort_scope	module_a	module_b	expected_sign	rho_TCGA	rho_CGGA	same_direction	note
+robust_1_cross_cohort_sign	TCGA_vs_CGGA_full	C4_UP	C4_DOWN	-1.0	-0.3220298879953703	0.4613260785075787	False	
+robust_1_cross_cohort_sign	TCGA_vs_CGGA_full	C4_UP	M_shared_antiproliferative	-1.0	0.0082486366138995	0.4909436455499416	True	
+robust_1_cross_cohort_sign	TCGA_vs_CGGA_full	C4_UP	M_shared_ER_UPR	-1.0	0.2369242532019981	0.7682806062961524	True	
+robust_1_cross_cohort_sign	TCGA_vs_CGGA_full	C4_UP	M_cholesterol_SREBP	1.0	0.327139822930607	0.8168682471822775	True	
+robust_1_cross_cohort_sign	TCGA_vs_CGGA_full	C4_UP	M_TNF_NFkB	1.0	0.3892567787516728	0.4596556548775748	True	
+robust_1_cross_cohort_sign	TCGA_vs_CGGA_full	C4_UP	M_p53_apoptosis	1.0	0.2871851753613927	0.4692001554605518	True	
+robust_1_cross_cohort_sign	TCGA_vs_CGGA_full	C4_UP	M_RIGI_typeI_IFN		0.2012491510233936	0.4415258453167508	True	
+robust_1_cross_cohort_sign	TCGA_vs_CGGA_full	C4_DOWN	M_shared_antiproliferative	1.0	0.2967911698395284	0.5134131364166343	True	
+robust_1_cross_cohort_sign	TCGA_vs_CGGA_full	C4_DOWN	M_shared_ER_UPR	1.0	0.3849822568912788	0.5426575981344735	True	
+robust_1_cross_cohort_sign	TCGA_vs_CGGA_full	C4_DOWN	M_cholesterol_SREBP	-1.0	0.2872072788943411	0.4077745821997668	True	
+robust_1_cross_cohort_sign	TCGA_vs_CGGA_full	C4_DOWN	M_TNF_NFkB	-1.0	0.2624668949358797	0.5557636999611348	True	
+robust_1_cross_cohort_sign	TCGA_vs_CGGA_full	C4_DOWN	M_p53_apoptosis	-1.0	0.2698856443581737	0.4690726778080062	True	
+robust_1_cross_cohort_sign	TCGA_vs_CGGA_full	C4_DOWN	M_RIGI_typeI_IFN		0.0600537919615479	0.4291667314418966	True	
+robust_1_cross_cohort_sign	TCGA_vs_CGGA_full	M_shared_antiproliferative	M_shared_ER_UPR	1.0	0.4677323583665892	0.7329335406140692	True	
+robust_1_cross_cohort_sign	TCGA_vs_CGGA_full	M_shared_antiproliferative	M_cholesterol_SREBP	-1.0	0.2180900337179348	0.4460085503303537	True	
+robust_1_cross_cohort_sign	TCGA_vs_CGGA_full	M_shared_antiproliferative	M_TNF_NFkB	-1.0	-0.1492556132926628	0.1222953750485814	False	
+robust_1_cross_cohort_sign	TCGA_vs_CGGA_full	M_shared_antiproliferative	M_p53_apoptosis	-1.0	-0.0750520437730328	0.1956766420520792	False	
+robust_1_cross_cohort_sign	TCGA_vs_CGGA_full	M_shared_antiproliferative	M_RIGI_typeI_IFN		-0.1690754494050131	0.2006677030703459	False	
+robust_1_cross_cohort_sign	TCGA_vs_CGGA_full	M_shared_ER_UPR	M_cholesterol_SREBP	-1.0	0.6352881898814047	0.6863909832879908	True	
+robust_1_cross_cohort_sign	TCGA_vs_CGGA_full	M_shared_ER_UPR	M_TNF_NFkB	-1.0	0.575655369751918	0.537137971239798	True	
+robust_1_cross_cohort_sign	TCGA_vs_CGGA_full	M_shared_ER_UPR	M_p53_apoptosis	-1.0	0.6242047751668819	0.5981453556160125	True	
+robust_1_cross_cohort_sign	TCGA_vs_CGGA_full	M_shared_ER_UPR	M_RIGI_typeI_IFN		0.2865195576078351	0.5088822386319471	True	
+robust_1_cross_cohort_sign	TCGA_vs_CGGA_full	M_cholesterol_SREBP	M_TNF_NFkB	1.0	0.5880805693870088	0.3677077341624563	True	
+robust_1_cross_cohort_sign	TCGA_vs_CGGA_full	M_cholesterol_SREBP	M_p53_apoptosis	1.0	0.6647542087136147	0.4531239797901282	True	
+robust_1_cross_cohort_sign	TCGA_vs_CGGA_full	M_cholesterol_SREBP	M_RIGI_typeI_IFN		0.4155032170687501	0.4067096774193548	True	
+robust_1_cross_cohort_sign	TCGA_vs_CGGA_full	M_TNF_NFkB	M_p53_apoptosis	1.0	0.8997579663142159	0.909913719393704	True	
+robust_1_cross_cohort_sign	TCGA_vs_CGGA_full	M_TNF_NFkB	M_RIGI_typeI_IFN		0.6149504278038332	0.7894589972794404	True	
+robust_1_cross_cohort_sign	TCGA_vs_CGGA_full	M_p53_apoptosis	M_RIGI_typeI_IFN		0.6233703667980823	0.8199113874854255	True	
+robust_1_cross_cohort_sign	summary	SUMMARY	all_28_sign_consistent=24; expected21_sign_consistent=18/21					reversals within expected set: C4_UP-C4_DOWN (T -0.32/C +0.46), M_shared_antiproliferative-M_TNF_NFkB (T -0.15/C +0.12), M_shared_antiproliferative-M_p53_apoptosis (T -0.08/C +0.20); RIGI pair no expected sign (T -0.17/C +0.20)
+robust_2_stratum_Q1	CGGA_IDH_WT	all_21_expected_pairs	dir_match=9/21					n=190; rho_C4UP_C4DOWN=0.401; rho_antiProlif_TNF=0.047
+robust_2_stratum_Q1	CGGA_IDH_Mut	all_21_expected_pairs	dir_match=9/21					n=49; rho_C4UP_C4DOWN=0.442; rho_antiProlif_TNF=0.332
+robust_2_stratum_Q1	CGGA_Primary	all_21_expected_pairs	dir_match=9/21					n=140; rho_C4UP_C4DOWN=0.377; rho_antiProlif_TNF=0.103
+robust_2_stratum_Q1	CGGA_Recurrent	all_21_expected_pairs	dir_match=9/21					n=109; rho_C4UP_C4DOWN=0.555; rho_antiProlif_TNF=0.146
+robust_2_stratum_Q1	TCGA_Primary_only	all_21_expected_pairs	dir_match=12/21					n=284 (recurrent n=4 excluded); same pattern as full TCGA
+robust_3_partial_global_mean	TCGA	C4_UP	C4_DOWN	-1.0	-0.3220298879953703	-0.3216907997058221	True	p_partial=2.34e-08 (uncorrected); sign_preserved_after_partial=True
+robust_3_partial_global_mean	TCGA	C4_UP	M_shared_antiproliferative	-1.0	0.0082486366138995	0.0107031334772072	True	p_partial=8.56e-01 (uncorrected); sign_preserved_after_partial=True
+robust_3_partial_global_mean	TCGA	C4_UP	M_shared_ER_UPR	-1.0	0.2369242532019981	0.3064257984398925	True	p_partial=1.12e-07 (uncorrected); sign_preserved_after_partial=True
+robust_3_partial_global_mean	TCGA	C4_UP	M_cholesterol_SREBP	1.0	0.327139822930607	0.3816104634106154	True	p_partial=2.04e-11 (uncorrected); sign_preserved_after_partial=True
+robust_3_partial_global_mean	TCGA	C4_UP	M_TNF_NFkB	1.0	0.3892567787516728	0.4129236343030756	True	p_partial=2.76e-13 (uncorrected); sign_preserved_after_partial=True
+robust_3_partial_global_mean	TCGA	C4_UP	M_p53_apoptosis	1.0	0.2871851753613927	0.3330078085753671	True	p_partial=6.92e-09 (uncorrected); sign_preserved_after_partial=True
+robust_3_partial_global_mean	TCGA	C4_UP	M_RIGI_typeI_IFN		0.2012491510233936	0.2092405828902579		p_partial=3.50e-04 (uncorrected); sign_preserved_after_partial=True
+robust_3_partial_global_mean	TCGA	C4_DOWN	M_shared_antiproliferative	1.0	0.2967911698395284	0.2792826599793433	True	p_partial=1.47e-06 (uncorrected); sign_preserved_after_partial=True
+robust_3_partial_global_mean	TCGA	C4_DOWN	M_shared_ER_UPR	1.0	0.3849822568912788	0.4133958461433354	True	p_partial=2.58e-13 (uncorrected); sign_preserved_after_partial=True
+robust_3_partial_global_mean	TCGA	C4_DOWN	M_cholesterol_SREBP	-1.0	0.2872072788943411	0.2644356164273457	True	p_partial=5.38e-06 (uncorrected); sign_preserved_after_partial=True
+robust_3_partial_global_mean	TCGA	C4_DOWN	M_TNF_NFkB	-1.0	0.2624668949358797	0.2414007209770565	True	p_partial=3.47e-05 (uncorrected); sign_preserved_after_partial=True
+robust_3_partial_global_mean	TCGA	C4_DOWN	M_p53_apoptosis	-1.0	0.2698856443581737	0.2398082618987337	True	p_partial=3.92e-05 (uncorrected); sign_preserved_after_partial=True
+robust_3_partial_global_mean	TCGA	C4_DOWN	M_RIGI_typeI_IFN		0.0600537919615479	0.0314859803318745		p_partial=5.95e-01 (uncorrected); sign_preserved_after_partial=True
+robust_3_partial_global_mean	TCGA	M_shared_antiproliferative	M_shared_ER_UPR	1.0	0.4677323583665892	0.3661389950528275	True	p_partial=1.45e-10 (uncorrected); sign_preserved_after_partial=True
+robust_3_partial_global_mean	TCGA	M_shared_antiproliferative	M_cholesterol_SREBP	-1.0	0.2180900337179348	0.0441598447126339	True	p_partial=4.55e-01 (uncorrected); sign_preserved_after_partial=True
+robust_3_partial_global_mean	TCGA	M_shared_antiproliferative	M_TNF_NFkB	-1.0	-0.1492556132926628	-0.2745690815781119	True	p_partial=2.24e-06 (uncorrected); sign_preserved_after_partial=True
+robust_3_partial_global_mean	TCGA	M_shared_antiproliferative	M_p53_apoptosis	-1.0	-0.0750520437730328	-0.2660712778655221	True	p_partial=4.68e-06 (uncorrected); sign_preserved_after_partial=True
+robust_3_partial_global_mean	TCGA	M_shared_antiproliferative	M_RIGI_typeI_IFN		-0.1690754494050131	-0.2876619083788465		p_partial=6.84e-07 (uncorrected); sign_preserved_after_partial=True
+robust_3_partial_global_mean	TCGA	M_shared_ER_UPR	M_cholesterol_SREBP	-1.0	0.6352881898814047	0.4233740842104417	True	p_partial=5.92e-14 (uncorrected); sign_preserved_after_partial=True
+robust_3_partial_global_mean	TCGA	M_shared_ER_UPR	M_TNF_NFkB	-1.0	0.575655369751918	0.5117053277552055	True	p_partial=1.28e-20 (uncorrected); sign_preserved_after_partial=True
+robust_3_partial_global_mean	TCGA	M_shared_ER_UPR	M_p53_apoptosis	-1.0	0.6242047751668819	0.4799335085540672	True	p_partial=5.35e-18 (uncorrected); sign_preserved_after_partial=True
+robust_3_partial_global_mean	TCGA	M_shared_ER_UPR	M_RIGI_typeI_IFN		0.2865195576078351	0.1323604764717939		p_partial=2.47e-02 (uncorrected); sign_preserved_after_partial=True
+robust_3_partial_global_mean	TCGA	M_cholesterol_SREBP	M_TNF_NFkB	1.0	0.5880805693870088	0.5096351309533858	True	p_partial=1.93e-20 (uncorrected); sign_preserved_after_partial=True
+robust_3_partial_global_mean	TCGA	M_cholesterol_SREBP	M_p53_apoptosis	1.0	0.6647542087136147	0.5323851922404544	True	p_partial=1.76e-22 (uncorrected); sign_preserved_after_partial=True
+robust_3_partial_global_mean	TCGA	M_cholesterol_SREBP	M_RIGI_typeI_IFN		0.4155032170687501	0.307934364563616		p_partial=9.65e-08 (uncorrected); sign_preserved_after_partial=True
+robust_3_partial_global_mean	TCGA	M_TNF_NFkB	M_p53_apoptosis	1.0	0.8997579663142159	0.8953091279553428	True	p_partial=1.89e-102 (uncorrected); sign_preserved_after_partial=True
+robust_3_partial_global_mean	TCGA	M_TNF_NFkB	M_RIGI_typeI_IFN		0.6149504278038332	0.5810074388435432		p_partial=2.13e-27 (uncorrected); sign_preserved_after_partial=True
+robust_3_partial_global_mean	TCGA	M_p53_apoptosis	M_RIGI_typeI_IFN		0.6233703667980823	0.5749043519846964		p_partial=9.81e-27 (uncorrected); sign_preserved_after_partial=True
+robust_3_partial_global_mean	CGGA	C4_UP	C4_DOWN	-1.0	0.4613260785075787	0.4607260007773028	True	p_partial=1.73e-14 (uncorrected); sign_preserved_after_partial=True
+robust_3_partial_global_mean	CGGA	C4_UP	M_shared_antiproliferative	-1.0	0.4909436455499416	0.4630213758258842	True	p_partial=1.23e-14 (uncorrected); sign_preserved_after_partial=True
+robust_3_partial_global_mean	CGGA	C4_UP	M_shared_ER_UPR	-1.0	0.7682806062961524	0.761983676642052	True	p_partial=1.64e-48 (uncorrected); sign_preserved_after_partial=True
+robust_3_partial_global_mean	CGGA	C4_UP	M_cholesterol_SREBP	1.0	0.8168682471822775	0.8131636222308589	True	p_partial=5.45e-60 (uncorrected); sign_preserved_after_partial=True
+robust_3_partial_global_mean	CGGA	C4_UP	M_TNF_NFkB	1.0	0.4596556548775748	0.4677186164010881	True	p_partial=6.14e-15 (uncorrected); sign_preserved_after_partial=True
+robust_3_partial_global_mean	CGGA	C4_UP	M_p53_apoptosis	1.0	0.4692001554605518	0.4508278274387874	True	p_partial=7.21e-14 (uncorrected); sign_preserved_after_partial=True
+robust_3_partial_global_mean	CGGA	C4_UP	M_RIGI_typeI_IFN		0.4415258453167508	0.4290244850369219		p_partial=1.43e-12 (uncorrected); sign_preserved_after_partial=True
+robust_3_partial_global_mean	CGGA	C4_DOWN	M_shared_antiproliferative	1.0	0.5134131364166343	0.5795227361057131	True	p_partial=9.75e-24 (uncorrected); sign_preserved_after_partial=True
+robust_3_partial_global_mean	CGGA	C4_DOWN	M_shared_ER_UPR	1.0	0.5426575981344735	0.5732180334240187	True	p_partial=3.78e-23 (uncorrected); sign_preserved_after_partial=True
+robust_3_partial_global_mean	CGGA	C4_DOWN	M_cholesterol_SREBP	-1.0	0.4077745821997668	0.4114768752429071	True	p_partial=1.36e-11 (uncorrected); sign_preserved_after_partial=True
+robust_3_partial_global_mean	CGGA	C4_DOWN	M_TNF_NFkB	-1.0	0.5557636999611348	0.5568744656043528	True	p_partial=1.11e-21 (uncorrected); sign_preserved_after_partial=True
+robust_3_partial_global_mean	CGGA	C4_DOWN	M_p53_apoptosis	-1.0	0.4690726778080062	0.4758111154294597	True	p_partial=1.79e-15 (uncorrected); sign_preserved_after_partial=True
+robust_3_partial_global_mean	CGGA	C4_DOWN	M_RIGI_typeI_IFN		0.4291667314418966	0.4329669646327245		p_partial=8.46e-13 (uncorrected); sign_preserved_after_partial=True
+robust_3_partial_global_mean	CGGA	M_shared_antiproliferative	M_shared_ER_UPR	1.0	0.7329335406140692	0.6923443451224252	True	p_partial=7.20e-37 (uncorrected); sign_preserved_after_partial=True
+robust_3_partial_global_mean	CGGA	M_shared_antiproliferative	M_cholesterol_SREBP	-1.0	0.4460085503303537	0.3842977069568596	True	p_partial=3.47e-10 (uncorrected); sign_preserved_after_partial=True
+robust_3_partial_global_mean	CGGA	M_shared_antiproliferative	M_TNF_NFkB	-1.0	0.1222953750485814	0.1635336183443451	True	p_partial=9.74e-03 (uncorrected); sign_preserved_after_partial=True
+robust_3_partial_global_mean	CGGA	M_shared_antiproliferative	M_p53_apoptosis	-1.0	0.1956766420520792	0.1674496696463272	True	p_partial=8.10e-03 (uncorrected); sign_preserved_after_partial=True
+robust_3_partial_global_mean	CGGA	M_shared_antiproliferative	M_RIGI_typeI_IFN		0.2006677030703459	0.1770781189273222		p_partial=5.07e-03 (uncorrected); sign_preserved_after_partial=True
+robust_3_partial_global_mean	CGGA	M_shared_ER_UPR	M_cholesterol_SREBP	-1.0	0.6863909832879908	0.6578460940536339	True	p_partial=2.98e-32 (uncorrected); sign_preserved_after_partial=True
+robust_3_partial_global_mean	CGGA	M_shared_ER_UPR	M_TNF_NFkB	-1.0	0.537137971239798	0.5802751651768364	True	p_partial=8.28e-24 (uncorrected); sign_preserved_after_partial=True
+robust_3_partial_global_mean	CGGA	M_shared_ER_UPR	M_p53_apoptosis	-1.0	0.5981453556160125	0.5871589584143024	True	p_partial=1.82e-24 (uncorrected); sign_preserved_after_partial=True
+robust_3_partial_global_mean	CGGA	M_shared_ER_UPR	M_RIGI_typeI_IFN		0.5088822386319471	0.4949809560823941		p_partial=8.54e-17 (uncorrected); sign_preserved_after_partial=True
+robust_3_partial_global_mean	CGGA	M_cholesterol_SREBP	M_TNF_NFkB	1.0	0.3677077341624563	0.3883832102603964	True	p_partial=2.17e-10 (uncorrected); sign_preserved_after_partial=True
+robust_3_partial_global_mean	CGGA	M_cholesterol_SREBP	M_p53_apoptosis	1.0	0.4531239797901282	0.4313859308200544	True	p_partial=1.04e-12 (uncorrected); sign_preserved_after_partial=True
+robust_3_partial_global_mean	CGGA	M_cholesterol_SREBP	M_RIGI_typeI_IFN		0.4067096774193548	0.389178390983288		p_partial=1.98e-10 (uncorrected); sign_preserved_after_partial=True
+robust_3_partial_global_mean	CGGA	M_TNF_NFkB	M_p53_apoptosis	1.0	0.909913719393704	0.9247197823552272	True	p_partial=1.34e-105 (uncorrected); sign_preserved_after_partial=True
+robust_3_partial_global_mean	CGGA	M_TNF_NFkB	M_RIGI_typeI_IFN		0.7894589972794404	0.8010260396424407		p_partial=5.74e-57 (uncorrected); sign_preserved_after_partial=True
+robust_3_partial_global_mean	CGGA	M_p53_apoptosis	M_RIGI_typeI_IFN		0.8199113874854255	0.8143575592693354		p_partial=2.68e-60 (uncorrected); sign_preserved_after_partial=True
+robust_4_gene_perturbation	tcga	run_baseline	dir_match=12/21					tcga
+robust_4_gene_perturbation	tcga	run_drop_top10expr	dir_match=12/21					tcga
+robust_4_gene_perturbation	tcga	run_dropout80_1	dir_match=13/21					tcga
+robust_4_gene_perturbation	tcga	run_dropout80_2	dir_match=13/21					tcga
+robust_4_gene_perturbation	tcga	run_dropout80_3	dir_match=13/21					tcga
+robust_4_gene_perturbation	tcga	run_dropout80_4	dir_match=12/21					tcga
+robust_4_gene_perturbation	tcga	run_dropout80_5	dir_match=13/21					tcga
+robust_4_gene_perturbation	cgga	run_baseline	dir_match=9/21					cgga
+robust_4_gene_perturbation	cgga	run_drop_top10expr	dir_match=9/21					cgga
+robust_4_gene_perturbation	cgga	run_dropout80_1	dir_match=9/21					cgga
+robust_4_gene_perturbation	cgga	run_dropout80_2	dir_match=9/21					cgga
+robust_4_gene_perturbation	cgga	run_dropout80_3	dir_match=9/21					cgga
+robust_4_gene_perturbation	cgga	run_dropout80_4	dir_match=9/21					cgga
+robust_4_gene_perturbation	cgga	run_dropout80_5	dir_match=9/21					cgga
+robust_5_coverage	tcga	min_per_sample_gene_coverage	min=0.970 (C5_UP)					coverage>=0.80 rule; no imputation; sets unchanged
+robust_5_coverage	cgga	min_per_sample_gene_coverage	min=0.865 (C5_DOWN)					coverage>=0.80 rule; no imputation; sets unchanged

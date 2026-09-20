@@ -1,0 +1,8 @@
+figure	panel	plotted_metric	source_file	plotted_value
+Fig1	A	design arm counts (B1 master sheet)	B1_MASTER_SAMPLE_SHEET.tsv	{'MAN-F': 6, 'ND-F': 6, 'MAN-NF': 6, 'ND-NF': 6}
+Fig1	A	analysis-matrix arm counts	B2_FROZEN_SAMPLE_TABLE.tsv	{'MAN-F': 5, 'ND-F': 4, 'MAN-NF': 5, 'ND-NF': 6}
+Fig1	C	C4 genes FDR<0.05 (R/DESeq2)	B35_DESEQ2_SUMMARY.tsv	5342.0
+Fig1	C	C5 genes FDR<0.05 (R/DESeq2)	B35_DESEQ2_SUMMARY.tsv	1929.0
+Fig1	C	C5 stable subset genes	C2_2_FROZEN_SIGNATURES_COVERAGE.tsv	1602.0
+Fig1	C	C4/C5 genes FDR<0.05 (PyDESeq2)	B35_DESEQ2_SUMMARY.tsv	5277.0/1891.0
+Fig1	D	shared modules n	C2_2_FROZEN_SIGNATURES_COVERAGE.tsv	8

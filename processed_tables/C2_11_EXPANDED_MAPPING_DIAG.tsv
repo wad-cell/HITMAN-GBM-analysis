@@ -1,0 +1,37 @@
+mp_top	cells	patients	AC	Cycling	MES	NPC	OPC	OTHER
+Alveolar	8	3	0	0	0	0	0	8
+Cell Cycle - G1/S	311	11	0	311	0	0	0	0
+Cell Cycle - G2/M	594	11	0	594	0	0	0	0
+Cell Cycle HMG-rich	267	10	0	267	0	0	0	0
+Chromatin	113	11	2	0	2	5	2	102
+Cilia	54	9	0	0	4	2	1	47
+EMT I	192	11	2	0	28	0	1	161
+EMT II	91	8	0	0	18	0	0	73
+EMT III	175	11	1	0	4	2	0	168
+EMT IV	30	8	0	0	3	1	0	26
+Glutathione	9	5	0	0	2	1	0	6
+Hemato-related I	11	6	0	0	1	0	0	10
+Hemato-related II	12	7	0	0	0	0	0	12
+Hypoxia	1402	11	4	0	83	16	0	1299
+IG	8	5	0	0	0	0	0	8
+Interferon/MHC-II (I)	502	11	5	0	12	1	3	481
+Interferon/MHC-II (II)	275	10	27	0	1	1	1	245
+MP41 (Unassigned)	182	11	2	0	2	10	4	164
+MYC	312	11	1	0	19	2	4	286
+Metal response	104	11	6	0	3	0	0	95
+NA	895	4	16	0	1	4	45	829
+NPC/OPC	696	11	2	0	0	12	38	644
+Oligo normal	220	10	1	0	3	2	10	204
+PDAC-related	1	1	0	0	0	0	0	1
+Platelet activation	33	7	0	0	0	0	0	33
+Proteasomal degradation	103	7	0	0	1	3	0	99
+Protein maturation	292	11	1	0	12	0	0	279
+RBCs	41	9	0	0	1	0	0	40
+Respiration	457	10	3	0	0	8	8	438
+Secreted I	159	10	0	0	44	0	0	115
+Secreted II	2	1	0	0	2	0	0	0
+Skin pigmentation	22	6	0	0	2	0	0	20
+Stress	552	11	3	0	14	26	1	508
+Stress (in vitro)	479	11	0	0	28	31	0	420
+Translation initiation	172	11	0	0	3	2	6	161
+Unfolded protein response	302	11	0	0	9	9	2	282

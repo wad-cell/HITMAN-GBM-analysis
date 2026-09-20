@@ -1,0 +1,4 @@
+analysis	cohort	module	n_group1	n_group0	median_diff_MES_minus_nonMES	P	CI95_low	CI95_high	FDR_BH	grade	note
+Q3_secondary_sensitivity	TCGA(official_Verhaak_n44)	M_shared_ER_UPR	15.0	29.0	428.6484138491796	0.0009912541582092	182.614774730926	810.8012315696687	0.0019825083164184	B	SECONDARY/sensitivity-supported; module-level score only, component-level not testable in bulk
+Q3_secondary_sensitivity	TCGA(official_Verhaak_n44)	M_autophagy_lysosome	15.0	29.0	84.38107403033791	0.334236486952763	-82.93861573850154	224.8701176488576	0.334236486952763	B	SECONDARY/sensitivity-supported; module-level score only, component-level not testable in bulk
+Q3_secondary_sensitivity	CGGA(WHO_IV)	GradeB_modules (ER_UPR,autophagy)								B	NOT TESTABLE: CGGA WHO-IV subset has no molecular subtype annotation; Q3 restricted to TCGA-official n44 MES annotation only

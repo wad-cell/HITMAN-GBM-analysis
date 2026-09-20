@@ -1,0 +1,51 @@
+figure	panel	plotted_metric	source_file	plotted_value
+FigS3	ABC	delta	M_shared_ER_UPR/M_autophagy_lysosome variants	Discovery core|MES|M_shared_ER_UPR|0.01079199451843381
+FigS3	ABC	delta	M_shared_ER_UPR/M_autophagy_lysosome variants	Discovery core|AC|M_shared_ER_UPR|-0.006656674653590252
+FigS3	ABC	delta	M_shared_ER_UPR/M_autophagy_lysosome variants	Discovery core|OPC|M_shared_ER_UPR|-0.0040746524137913005
+FigS3	ABC	delta	M_shared_ER_UPR/M_autophagy_lysosome variants	Discovery core|NPC|M_shared_ER_UPR|-0.004281471953492155
+FigS3	ABC	delta	M_shared_ER_UPR/M_autophagy_lysosome variants	Discovery core|Cycling|M_shared_ER_UPR|0.005332764491822966
+FigS3	ABC	delta	M_shared_ER_UPR/M_autophagy_lysosome variants	Discovery core|MES|M_autophagy_lysosome|0.0075635953746057815
+FigS3	ABC	delta	M_shared_ER_UPR/M_autophagy_lysosome variants	Discovery core|AC|M_autophagy_lysosome|0.0012136622401873625
+FigS3	ABC	delta	M_shared_ER_UPR/M_autophagy_lysosome variants	Discovery core|OPC|M_autophagy_lysosome|-0.00429947625999579
+FigS3	ABC	delta	M_shared_ER_UPR/M_autophagy_lysosome variants	Discovery core|NPC|M_autophagy_lysosome|-0.003009919603893969
+FigS3	ABC	delta	M_shared_ER_UPR/M_autophagy_lysosome variants	Discovery core|Cycling|M_autophagy_lysosome|-0.006123869319359526
+FigS3	ABC	delta	M_shared_ER_UPR/M_autophagy_lysosome variants	Discovery CCDEP|MES|M_shared_ER_UPR_CCDEP|None
+FigS3	ABC	delta	M_shared_ER_UPR/M_autophagy_lysosome variants	Discovery CCDEP|AC|M_shared_ER_UPR_CCDEP|None
+FigS3	ABC	delta	M_shared_ER_UPR/M_autophagy_lysosome variants	Discovery CCDEP|OPC|M_shared_ER_UPR_CCDEP|None
+FigS3	ABC	delta	M_shared_ER_UPR/M_autophagy_lysosome variants	Discovery CCDEP|NPC|M_shared_ER_UPR_CCDEP|None
+FigS3	ABC	delta	M_shared_ER_UPR/M_autophagy_lysosome variants	Discovery CCDEP|Cycling|M_shared_ER_UPR_CCDEP|None
+FigS3	ABC	delta	M_shared_ER_UPR/M_autophagy_lysosome variants	Discovery CCDEP|MES|M_autophagy_lysosome_CCDEP|None
+FigS3	ABC	delta	M_shared_ER_UPR/M_autophagy_lysosome variants	Discovery CCDEP|AC|M_autophagy_lysosome_CCDEP|None
+FigS3	ABC	delta	M_shared_ER_UPR/M_autophagy_lysosome variants	Discovery CCDEP|OPC|M_autophagy_lysosome_CCDEP|None
+FigS3	ABC	delta	M_shared_ER_UPR/M_autophagy_lysosome variants	Discovery CCDEP|NPC|M_autophagy_lysosome_CCDEP|None
+FigS3	ABC	delta	M_shared_ER_UPR/M_autophagy_lysosome variants	Discovery CCDEP|Cycling|M_autophagy_lysosome_CCDEP|None
+FigS3	ABC	delta	M_shared_ER_UPR/M_autophagy_lysosome variants	Layer A core|MES|M_shared_ER_UPR|0.008072518152576546
+FigS3	ABC	delta	M_shared_ER_UPR/M_autophagy_lysosome variants	Layer A core|AC|M_shared_ER_UPR|-0.017206021647361115
+FigS3	ABC	delta	M_shared_ER_UPR/M_autophagy_lysosome variants	Layer A core|OPC|M_shared_ER_UPR|-0.00973718297928916
+FigS3	ABC	delta	M_shared_ER_UPR/M_autophagy_lysosome variants	Layer A core|NPC|M_shared_ER_UPR|-0.009885026704139144
+FigS3	ABC	delta	M_shared_ER_UPR/M_autophagy_lysosome variants	Layer A core|Cycling|M_shared_ER_UPR|0.02128262401463513
+FigS3	ABC	delta	M_shared_ER_UPR/M_autophagy_lysosome variants	Layer A core|MES|M_autophagy_lysosome|0.0065825717593594015
+FigS3	ABC	delta	M_shared_ER_UPR/M_autophagy_lysosome variants	Layer A core|AC|M_autophagy_lysosome|0.002754868201820713
+FigS3	ABC	delta	M_shared_ER_UPR/M_autophagy_lysosome variants	Layer A core|OPC|M_autophagy_lysosome|-0.007347833185762517
+FigS3	ABC	delta	M_shared_ER_UPR/M_autophagy_lysosome variants	Layer A core|NPC|M_autophagy_lysosome|-0.004229223988188449
+FigS3	ABC	delta	M_shared_ER_UPR/M_autophagy_lysosome variants	Layer A core|Cycling|M_autophagy_lysosome|0.002549611831083941
+FigS3	ABC	delta	M_shared_ER_UPR/M_autophagy_lysosome variants	Layer A CCDEP|MES|M_shared_ER_UPR_CCDEP|0.010332465372134624
+FigS3	ABC	delta	M_shared_ER_UPR/M_autophagy_lysosome variants	Layer A CCDEP|AC|M_shared_ER_UPR_CCDEP|-0.014764373034791466
+FigS3	ABC	delta	M_shared_ER_UPR/M_autophagy_lysosome variants	Layer A CCDEP|OPC|M_shared_ER_UPR_CCDEP|-0.007226223326423541
+FigS3	ABC	delta	M_shared_ER_UPR/M_autophagy_lysosome variants	Layer A CCDEP|NPC|M_shared_ER_UPR_CCDEP|-0.007556469326278847
+FigS3	ABC	delta	M_shared_ER_UPR/M_autophagy_lysosome variants	Layer A CCDEP|Cycling|M_shared_ER_UPR_CCDEP|0.016512397574939407
+FigS3	ABC	delta	M_shared_ER_UPR/M_autophagy_lysosome variants	Layer A CCDEP|MES|M_autophagy_lysosome_CCDEP|0.007255262419392161
+FigS3	ABC	delta	M_shared_ER_UPR/M_autophagy_lysosome variants	Layer A CCDEP|AC|M_autophagy_lysosome_CCDEP|0.003943968521079508
+FigS3	ABC	delta	M_shared_ER_UPR/M_autophagy_lysosome variants	Layer A CCDEP|OPC|M_autophagy_lysosome_CCDEP|-0.0071749676455491965
+FigS3	ABC	delta	M_shared_ER_UPR/M_autophagy_lysosome variants	Layer A CCDEP|NPC|M_autophagy_lysosome_CCDEP|-0.003982752441595153
+FigS3	ABC	delta	M_shared_ER_UPR/M_autophagy_lysosome variants	Layer A CCDEP|Cycling|M_autophagy_lysosome_CCDEP|0.0012594864102145407
+FigS3	ABC	delta	M_shared_ER_UPR/M_autophagy_lysosome variants	Layer A log1p-mean|MES|ALT_M_shared_ER_UPR|-0.005393433079861976
+FigS3	ABC	delta	M_shared_ER_UPR/M_autophagy_lysosome variants	Layer A log1p-mean|AC|ALT_M_shared_ER_UPR|0.03694698772119518
+FigS3	ABC	delta	M_shared_ER_UPR/M_autophagy_lysosome variants	Layer A log1p-mean|OPC|ALT_M_shared_ER_UPR|0.0369971557614341
+FigS3	ABC	delta	M_shared_ER_UPR/M_autophagy_lysosome variants	Layer A log1p-mean|NPC|ALT_M_shared_ER_UPR|0.06197862059826564
+FigS3	ABC	delta	M_shared_ER_UPR/M_autophagy_lysosome variants	Layer A log1p-mean|Cycling|ALT_M_shared_ER_UPR|-0.07312863301948705
+FigS3	ABC	delta	M_shared_ER_UPR/M_autophagy_lysosome variants	Layer A log1p-mean|MES|ALT_M_autophagy_lysosome|-0.007276034499412121
+FigS3	ABC	delta	M_shared_ER_UPR/M_autophagy_lysosome variants	Layer A log1p-mean|AC|ALT_M_autophagy_lysosome|0.04464053391645986
+FigS3	ABC	delta	M_shared_ER_UPR/M_autophagy_lysosome variants	Layer A log1p-mean|OPC|ALT_M_autophagy_lysosome|0.03499454380281386
+FigS3	ABC	delta	M_shared_ER_UPR/M_autophagy_lysosome variants	Layer A log1p-mean|NPC|ALT_M_autophagy_lysosome|0.06040810116767375
+FigS3	ABC	delta	M_shared_ER_UPR/M_autophagy_lysosome variants	Layer A log1p-mean|Cycling|ALT_M_autophagy_lysosome|-0.07650864394485786

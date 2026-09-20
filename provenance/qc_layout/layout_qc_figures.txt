@@ -1,0 +1,15 @@
+=== F01 | fig1.py | canvas=720x636 clipped=0 overlap=0 crowd=0 letters=BD | 
+=== F02 | fig2.py | canvas=720x696 clipped=0 overlap=0 crowd=0 letters=NONE | 
+=== F03 | fig3.py | canvas=720x982 clipped=0 overlap=0 crowd=0 letters=NONE | 
+=== F04 | fig4.py | canvas=720x1190 clipped=0 overlap=0 crowd=0 letters=NONE | Layer A (Couturier, 11 patients)
+=== F05 | fig5.py | canvas=720x1558 clipped=0 overlap=0 crowd=0 letters=NONE | Layer A (12 leave-one-out runs)
+=== F06 | fig6.py | canvas=740x1390 clipped=0 overlap=0 crowd=0 letters=NONE | Gene-perturbation sensitivity (no imputa
+=== F07 | figS.py | canvas=740x387 clipped=0 overlap=0 crowd=0 letters=NONE | 
+=== F08 | figS.py | canvas=740x355 clipped=0 overlap=0 crowd=0 letters=NONE | 
+=== F09 | figS.py | canvas=740x323 clipped=0 overlap=0 crowd=0 letters=NONE | 
+=== F10 | figS.py | canvas=740x284 clipped=0 overlap=0 crowd=0 letters=NONE | 
+=== F11 | figS.py | canvas=740x607 clipped=0 overlap=0 crowd=0 letters=NONE | same contrasts, pairs 36-70 of 70 (conti
+=== F12 | figS.py | canvas=740x345 clipped=0 overlap=0 crowd=0 letters=NONE | 
+=== F13 | figS.py | canvas=760x332 clipped=0 overlap=0 crowd=0 letters=NONE | 
+=== F14 | figS.py | canvas=760x302 clipped=0 overlap=0 crowd=0 letters=NONE | 
+=== F15 | figS.py | canvas=760x780 clipped=0 overlap=0 crowd=0 letters=NONE | 

@@ -1,0 +1,11 @@
+sample	cells	malignant	mac	nan_ct	mean_complx	patient_id	adult_status	analysis_layer	platform
+102	1822	1242	509	29	1896.035675082327	MGH102	Adult	SENSITIVITY_same_patient_not_independent	Neftel_10X
+105	4127	3439	213	475	515.8798158468621	MGH105	Adult	SENSITIVITY_same_patient_not_independent	Neftel_10X
+105A	1386	647	386	324	1272.9321789321789	MGH105	Adult	SENSITIVITY_same_patient_not_independent	Neftel_10X
+114	473	97	201	122	1349.4503171247356	MGH114	UNKNOWN	UNKNOWN_age_excluded_from_adult_PRIMARY	Neftel_10X
+115	1283	662	539	0	2723.4497272018707	MGH115	Adult	SENSITIVITY_same_patient_not_independent	Neftel_10X
+118	539	264	99	171	909.8107606679035	MGH118	UNKNOWN	UNKNOWN_age_excluded_from_adult_PRIMARY	Neftel_10X
+124	2415	1334	720	0	2728.9942028985506	MGH124	Adult	SENSITIVITY_same_patient_not_independent	Neftel_10X
+125	1613	1138	426	0	2781.7241165530068	MGH125	Adult	SENSITIVITY_same_patient_not_independent	Neftel_10X
+126	229	167	11	31	935.7816593886463	MGH126	Adult	SENSITIVITY_adult_no_SS2_overlap	Neftel_10X
+143	2314	2182	125	0	5212.040190146931	MGH143	Adult	SENSITIVITY_same_patient_not_independent	Neftel_10X

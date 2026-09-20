@@ -1,0 +1,13 @@
+analysis	signature	cohort	context	effect_type	effect	CI95_low	CI95_high	P	FDR_BH	grade
+C5_exploratory_MES_context	C5_UP	TCGA_official_Verhaak_n44	MES(n=15)_vs_nonMES(n=29)	median_score_diff_MES_minus_nonMES	476.1564224468602	294.9218081354629	605.7440807390485	4.402038910988789e-05	8.804077821977578e-05	C_permanent
+C5_exploratory_MES_context	C5_DOWN	TCGA_official_Verhaak_n44	MES(n=15)_vs_nonMES(n=29)	median_score_diff_MES_minus_nonMES	202.27971927064937	-156.0173879967042	528.3044917616498	0.0787618254473571	0.1022338711115479	C_permanent
+C5_exploratory_MES_context	C5_STABLE_UP	TCGA_official_Verhaak_n44	MES(n=15)_vs_nonMES(n=29)	median_score_diff_MES_minus_nonMES	565.3716338321792	349.5691324228501	667.2584649707751	2.056991490482564e-05	8.227965961930255e-05	C_permanent
+C5_exploratory_MES_context	C5_STABLE_DOWN	TCGA_official_Verhaak_n44	MES(n=15)_vs_nonMES(n=29)	median_score_diff_MES_minus_nonMES	185.95779948791096	-236.417901045108	645.6270386314642	0.1022338711115479	0.1022338711115479	C_permanent
+C5_exploratory_C4UP_axis	C5_UP	TCGA	correlation_with_frozen_C4_UP_axis	spearman_rho_vs_C4UP	0.5596011718891287			3.9191309278535807e-25	7.838261855707161e-25	C_permanent
+C5_exploratory_C4UP_axis	C5_DOWN	TCGA	correlation_with_frozen_C4_UP_axis	spearman_rho_vs_C4UP	0.0732395540712698			0.2152803731614523	0.28704049754860306	C_permanent
+C5_exploratory_C4UP_axis	C5_STABLE_UP	TCGA	correlation_with_frozen_C4_UP_axis	spearman_rho_vs_C4UP	0.5705826089402763			2.834444445956001e-26	1.1337777783824003e-25	C_permanent
+C5_exploratory_C4UP_axis	C5_STABLE_DOWN	TCGA	correlation_with_frozen_C4_UP_axis	spearman_rho_vs_C4UP	0.0408161830011775			0.4902264136646289	0.4902264136646289	C_permanent
+C5_exploratory_C4UP_axis	C5_UP	CGGA	correlation_with_frozen_C4_UP_axis	spearman_rho_vs_C4UP	0.9576300038865138			1.564021465569728e-135	6.256085862278912e-135	C_permanent
+C5_exploratory_C4UP_axis	C5_DOWN	CGGA	correlation_with_frozen_C4_UP_axis	spearman_rho_vs_C4UP	0.8132071511853867			5.312624912551682e-60	7.083499883402243e-60	C_permanent
+C5_exploratory_C4UP_axis	C5_STABLE_UP	CGGA	correlation_with_frozen_C4_UP_axis	spearman_rho_vs_C4UP	0.953908278274388			4.0697741018390775e-131	8.139548203678155e-131	C_permanent
+C5_exploratory_C4UP_axis	C5_STABLE_DOWN	CGGA	correlation_with_frozen_C4_UP_axis	spearman_rho_vs_C4UP	0.7783785464438399			7.479645201255458e-52	7.479645201255458e-52	C_permanent

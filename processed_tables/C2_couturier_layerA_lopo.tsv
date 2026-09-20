@@ -1,0 +1,15 @@
+sig	top_state_full	top_state_lopo	flip	n_lopo
+C4_DOWN	Cycling	Cycling,Cycling,Cycling,Cycling,Cycling,Cycling,Cycling,Cycling,Cycling,Cycling,Cycling,Cycling	0	12
+C4_UP	AC	AC,AC,AC,AC,AC,AC,AC,AC,AC,AC,AC,AC	0	12
+C5_DOWN	Cycling	Cycling,Cycling,Cycling,Cycling,Cycling,Cycling,Cycling,Cycling,Cycling,Cycling,Cycling,Cycling	0	12
+C5_UP	MES	MES,MES,MES,MES,MES,MES,MES,MES,MES,MES,MES,MES	0	12
+C5_STABLE_DOWN	Cycling	Cycling,Cycling,Cycling,Cycling,Cycling,Cycling,Cycling,Cycling,Cycling,Cycling,Cycling,Cycling	0	12
+C5_STABLE_UP	NPC	MES,MES,MES,MES,MES,MES,MES,MES,MES,MES,MES,MES	0	12
+M_shared_antiproliferative	Cycling	Cycling,Cycling,Cycling,Cycling,Cycling,Cycling,Cycling,Cycling,Cycling,Cycling,Cycling,Cycling	0	12
+M_shared_ER_UPR	Cycling	Cycling,Cycling,Cycling,Cycling,Cycling,Cycling,Cycling,Cycling,Cycling,Cycling,Cycling,Cycling	0	12
+M_HSF1_heat_shock	NPC	NPC,NPC,NPC,NPC,NPC,NPC,NPC,NPC,NPC,NPC,NPC,NPC	0	12
+M_cholesterol_SREBP	AC	AC,AC,AC,AC,AC,AC,AC,AC,AC,AC,MES,AC	1	12
+M_autophagy_lysosome	MES	MES,MES,MES,MES,MES,MES,MES,MES,MES,MES,MES,MES	0	12
+M_TNF_NFkB	MES	MES,MES,MES,MES,MES,MES,MES,MES,MES,MES,MES,AC	1	12
+M_p53_apoptosis	MES	MES,MES,MES,MES,MES,MES,MES,MES,MES,MES,MES,MES	0	12
+M_RIGI_typeI_IFN	AC	AC,AC,AC,AC,AC,AC,AC,AC,AC,AC,AC,AC	0	12

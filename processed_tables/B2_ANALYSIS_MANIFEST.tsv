@@ -1,0 +1,11 @@
+manifest_id	description	type	status	frozen_version
+M01	GSE324656 processed counts (Salmon estimated counts, gene-level)	input_matrix	downloaded	B2_FROZEN
+M02	B2_FROZEN_SAMPLE_TABLE.tsv	master_sample_sheet	generated	FROZEN
+M03	B2_CONTRAST_DICTIONARY.tsv	contrast_definitions	generated	FROZEN
+M04	B2_STATISTICAL_DECISION_RULES.md	decision_rules	generated	FROZEN
+M05	B2_PRE_REGISTRATION.md	preh_registration	FROZEN	FROZEN
+M06	DESeq2 design ~ MAN * Field	statistical_model	design_only	FROZEN
+M07	T.Cells_Q sensitivity set (19 samples)	sensitivity_sample_sheet	design_only	FROZEN
+M08	E-MTAB-9043 processed counts (U87-MG / KNS-42 / GIN-28)	input_matrix	downloaded	B2_FROZEN
+M09	Model.matrix(MAN * Field, n=20)	model_matrix	design_only	FROZEN
+M10	resultsNames(dds)	coefficient_names	design_only	FROZEN

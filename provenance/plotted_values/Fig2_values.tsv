@@ -1,0 +1,91 @@
+figure	panel	plotted_metric	source_file	plotted_value
+Fig2	A	comparator NES range (shared down)	temp/C1_focus_pathways.tsv	-2.61..2.85
+Fig2	A	GSE C4 E2F Targets NES	temp/C1_focus_pathways.tsv	-2.32
+Fig2	B	GSE C4 Cholesterol Homeostasis NES	temp/C1_focus_pathways.tsv	1.9
+Fig2	C	C5_UP MES diff / P	C3_C5_EXPLORATORY.tsv	476.1564224468602 / 4.402038910988789e-05
+Fig2	C	C5 axis rho TCGA	temp/c3_data/_c5_axis_intermediate.tsv	0.5596011718891287
+Fig2	D	grades	C2_11_EVIDENCE_GRADES.tsv	C4_UP=A;C4_DOWN=A;C5_UP=C;C5_STABLE_UP=C;C5_DOWN=C;C5_STABLE_DOWN=C;M_shared_antiproliferative=A;M_shared_ER_UPR=A;M_shared_ER_UPR=B;M_HSF1_heat_shock=E;M_cholesterol_SREBP=A;M_autophagy_lysosome=B;M_TNF_NFkB=A;M_p53_apoptosis=A;M_RIGI_typeI_IFN=A;M_RIGI_typeI_IFN=D
+Fig2	A	comparator NES range (shared down)	temp/C1_focus_pathways.tsv	-2.61..2.85
+Fig2	A	GSE C4 E2F Targets NES	temp/C1_focus_pathways.tsv	-2.32
+Fig2	B	GSE C4 Cholesterol Homeostasis NES	temp/C1_focus_pathways.tsv	1.9
+Fig2	C	C5_UP MES diff / P	C3_C5_EXPLORATORY.tsv	476.1564224468602 / 4.402038910988789e-05
+Fig2	C	C5 axis rho TCGA	temp/c3_data/_c5_axis_intermediate.tsv	0.5596011718891287
+Fig2	D	grades	C2_11_EVIDENCE_GRADES.tsv	C4_UP=A;C4_DOWN=A;C5_UP=C;C5_STABLE_UP=C;C5_DOWN=C;C5_STABLE_DOWN=C;M_shared_antiproliferative=A;M_shared_ER_UPR=A;M_shared_ER_UPR=B;M_HSF1_heat_shock=E;M_cholesterol_SREBP=A;M_autophagy_lysosome=B;M_TNF_NFkB=A;M_p53_apoptosis=A;M_RIGI_typeI_IFN=A;M_RIGI_typeI_IFN=D
+Fig2	A	comparator NES range (shared down)	temp/C1_focus_pathways.tsv	-2.61..2.85
+Fig2	A	GSE C4 E2F Targets NES	temp/C1_focus_pathways.tsv	-2.32
+Fig2	B	GSE C4 Cholesterol Homeostasis NES	temp/C1_focus_pathways.tsv	1.9
+Fig2	C	C5_UP MES diff / P	C3_C5_EXPLORATORY.tsv	476.1564224468602 / 4.402038910988789e-05
+Fig2	C	C5 axis rho TCGA	temp/c3_data/_c5_axis_intermediate.tsv	0.5596011718891287
+Fig2	D	grades	C2_11_EVIDENCE_GRADES.tsv	C4_UP=A;C4_DOWN=A;C5_UP=C;C5_STABLE_UP=C;C5_DOWN=C;C5_STABLE_DOWN=C;M_shared_antiproliferative=A;M_shared_ER_UPR=A;M_shared_ER_UPR=B;M_HSF1_heat_shock=E;M_cholesterol_SREBP=A;M_autophagy_lysosome=B;M_TNF_NFkB=A;M_p53_apoptosis=A;M_RIGI_typeI_IFN=A;M_RIGI_typeI_IFN=D
+Fig2	A	comparator NES range (shared down)	temp/C1_focus_pathways.tsv	-2.61..2.85
+Fig2	A	GSE C4 E2F Targets NES	temp/C1_focus_pathways.tsv	-2.32
+Fig2	B	GSE C4 Cholesterol Homeostasis NES	temp/C1_focus_pathways.tsv	1.9
+Fig2	C	C5_UP MES diff / P	C3_C5_EXPLORATORY.tsv	476.1564224468602 / 4.402038910988789e-05
+Fig2	C	C5 axis rho TCGA	temp/c3_data/_c5_axis_intermediate.tsv	0.5596011718891287
+Fig2	D	grades	C2_11_EVIDENCE_GRADES.tsv	C4_UP=A;C4_DOWN=A;C5_UP=C;C5_STABLE_UP=C;C5_DOWN=C;C5_STABLE_DOWN=C;M_shared_antiproliferative=A;M_shared_ER_UPR=A;M_shared_ER_UPR=B;M_HSF1_heat_shock=E;M_cholesterol_SREBP=A;M_autophagy_lysosome=B;M_TNF_NFkB=A;M_p53_apoptosis=A;M_RIGI_typeI_IFN=A;M_RIGI_typeI_IFN=D
+Fig2	A	comparator NES range (shared down)	temp/C1_focus_pathways.tsv	-2.61..2.85
+Fig2	A	GSE C4 E2F Targets NES	temp/C1_focus_pathways.tsv	-2.32
+Fig2	B	GSE C4 Cholesterol Homeostasis NES	temp/C1_focus_pathways.tsv	1.9
+Fig2	C	C5_UP MES diff / P	C3_C5_EXPLORATORY.tsv	476.1564224468602 / 4.402038910988789e-05
+Fig2	C	C5 axis rho TCGA	temp/c3_data/_c5_axis_intermediate.tsv	0.5596011718891287
+Fig2	D	grades	C2_11_EVIDENCE_GRADES.tsv	C4_UP=A;C4_DOWN=A;C5_UP=C;C5_STABLE_UP=C;C5_DOWN=C;C5_STABLE_DOWN=C;M_shared_antiproliferative=A;M_shared_ER_UPR=A;M_shared_ER_UPR=B;M_HSF1_heat_shock=E;M_cholesterol_SREBP=A;M_autophagy_lysosome=B;M_TNF_NFkB=A;M_p53_apoptosis=A;M_RIGI_typeI_IFN=A;M_RIGI_typeI_IFN=D
+Fig2	A	comparator NES range (shared down)	temp/C1_focus_pathways.tsv	-2.61..2.85
+Fig2	A	GSE C4 E2F Targets NES	temp/C1_focus_pathways.tsv	-2.32
+Fig2	B	GSE C4 Cholesterol Homeostasis NES	temp/C1_focus_pathways.tsv	1.9
+Fig2	C	C5_UP MES diff / P	C3_C5_EXPLORATORY.tsv	476.1564224468602 / 4.402038910988789e-05
+Fig2	C	C5 axis rho TCGA	temp/c3_data/_c5_axis_intermediate.tsv	0.5596011718891287
+Fig2	D	grades	C2_11_EVIDENCE_GRADES.tsv	C4_UP=A;C4_DOWN=A;C5_UP=C;C5_STABLE_UP=C;C5_DOWN=C;C5_STABLE_DOWN=C;M_shared_antiproliferative=A;M_shared_ER_UPR=A;M_shared_ER_UPR=B;M_HSF1_heat_shock=E;M_cholesterol_SREBP=A;M_autophagy_lysosome=B;M_TNF_NFkB=A;M_p53_apoptosis=A;M_RIGI_typeI_IFN=A;M_RIGI_typeI_IFN=D
+Fig2	A	comparator NES range (shared down)	temp/C1_focus_pathways.tsv	-2.61..2.85
+Fig2	A	GSE C4 E2F Targets NES	temp/C1_focus_pathways.tsv	-2.32
+Fig2	B	GSE C4 Cholesterol Homeostasis NES	temp/C1_focus_pathways.tsv	1.9
+Fig2	C	C5_UP MES diff / P	C3_C5_EXPLORATORY.tsv	476.1564224468602 / 4.402038910988789e-05
+Fig2	C	C5 axis rho TCGA	temp/c3_data/_c5_axis_intermediate.tsv	0.5596011718891287
+Fig2	D	grades	C2_11_EVIDENCE_GRADES.tsv	C4_UP=A;C4_DOWN=A;C5_UP=C;C5_STABLE_UP=C;C5_DOWN=C;C5_STABLE_DOWN=C;M_shared_antiproliferative=A;M_shared_ER_UPR=A;M_shared_ER_UPR=B;M_HSF1_heat_shock=E;M_cholesterol_SREBP=A;M_autophagy_lysosome=B;M_TNF_NFkB=A;M_p53_apoptosis=A;M_RIGI_typeI_IFN=A;M_RIGI_typeI_IFN=D
+Fig2	A	comparator NES range (shared down)	temp/C1_focus_pathways.tsv	-2.61..2.85
+Fig2	A	GSE C4 E2F Targets NES	temp/C1_focus_pathways.tsv	-2.32
+Fig2	B	GSE C4 Cholesterol Homeostasis NES	temp/C1_focus_pathways.tsv	1.9
+Fig2	C	C5_UP MES diff / P	C3_C5_EXPLORATORY.tsv	476.1564224468602 / 4.402038910988789e-05
+Fig2	C	C5 axis rho TCGA	temp/c3_data/_c5_axis_intermediate.tsv	0.5596011718891287
+Fig2	D	grades	C2_11_EVIDENCE_GRADES.tsv	C4_UP=A;C4_DOWN=A;C5_UP=C;C5_STABLE_UP=C;C5_DOWN=C;C5_STABLE_DOWN=C;M_shared_antiproliferative=A;M_shared_ER_UPR=A;M_shared_ER_UPR=B;M_HSF1_heat_shock=E;M_cholesterol_SREBP=A;M_autophagy_lysosome=B;M_TNF_NFkB=A;M_p53_apoptosis=A;M_RIGI_typeI_IFN=A;M_RIGI_typeI_IFN=D
+Fig2	A	comparator NES range (shared down)	temp/C1_focus_pathways.tsv	-2.61..2.85
+Fig2	A	GSE C4 E2F Targets NES	temp/C1_focus_pathways.tsv	-2.32
+Fig2	B	GSE C4 Cholesterol Homeostasis NES	temp/C1_focus_pathways.tsv	1.9
+Fig2	C	C5_UP MES diff / P	C3_C5_EXPLORATORY.tsv	476.1564224468602 / 4.402038910988789e-05
+Fig2	C	C5 axis rho TCGA	temp/c3_data/_c5_axis_intermediate.tsv	0.5596011718891287
+Fig2	D	grades	C2_11_EVIDENCE_GRADES.tsv	C4_UP=A;C4_DOWN=A;C5_UP=C;C5_STABLE_UP=C;C5_DOWN=C;C5_STABLE_DOWN=C;M_shared_antiproliferative=A;M_shared_ER_UPR=A;M_shared_ER_UPR=B;M_HSF1_heat_shock=E;M_cholesterol_SREBP=A;M_autophagy_lysosome=B;M_TNF_NFkB=A;M_p53_apoptosis=A;M_RIGI_typeI_IFN=A;M_RIGI_typeI_IFN=D
+Fig2	A	comparator NES range (shared down)	temp/C1_focus_pathways.tsv	-2.61..2.85
+Fig2	A	GSE C4 E2F Targets NES	temp/C1_focus_pathways.tsv	-2.32
+Fig2	B	GSE C4 Cholesterol Homeostasis NES	temp/C1_focus_pathways.tsv	1.9
+Fig2	C	C5_UP MES diff / P	C3_C5_EXPLORATORY.tsv	476.1564224468602 / 4.402038910988789e-05
+Fig2	C	C5 axis rho TCGA	temp/c3_data/_c5_axis_intermediate.tsv	0.5596011718891287
+Fig2	D	grades	C2_11_EVIDENCE_GRADES.tsv	C4_UP=A;C4_DOWN=A;C5_UP=C;C5_STABLE_UP=C;C5_DOWN=C;C5_STABLE_DOWN=C;M_shared_antiproliferative=A;M_shared_ER_UPR=A;M_shared_ER_UPR=B;M_HSF1_heat_shock=E;M_cholesterol_SREBP=A;M_autophagy_lysosome=B;M_TNF_NFkB=A;M_p53_apoptosis=A;M_RIGI_typeI_IFN=A;M_RIGI_typeI_IFN=D
+Fig2	A	comparator NES range (shared down)	temp/C1_focus_pathways.tsv	-2.61..2.85
+Fig2	A	GSE C4 E2F Targets NES	temp/C1_focus_pathways.tsv	-2.32
+Fig2	B	GSE C4 Cholesterol Homeostasis NES	temp/C1_focus_pathways.tsv	1.9
+Fig2	C	C5_UP MES diff / P	C3_C5_EXPLORATORY.tsv	476.1564224468602 / 4.402038910988789e-05
+Fig2	C	C5 axis rho TCGA	temp/c3_data/_c5_axis_intermediate.tsv	0.5596011718891287
+Fig2	D	grades	C2_11_EVIDENCE_GRADES.tsv	C4_UP=A;C4_DOWN=A;C5_UP=C;C5_STABLE_UP=C;C5_DOWN=C;C5_STABLE_DOWN=C;M_shared_antiproliferative=A;M_shared_ER_UPR=A;M_shared_ER_UPR=B;M_HSF1_heat_shock=E;M_cholesterol_SREBP=A;M_autophagy_lysosome=B;M_TNF_NFkB=A;M_p53_apoptosis=A;M_RIGI_typeI_IFN=A;M_RIGI_typeI_IFN=D
+Fig2	A	comparator NES range (shared down)	temp/C1_focus_pathways.tsv	-2.61..2.85
+Fig2	A	GSE C4 E2F Targets NES	temp/C1_focus_pathways.tsv	-2.32
+Fig2	B	GSE C4 Cholesterol Homeostasis NES	temp/C1_focus_pathways.tsv	1.9
+Fig2	C	C5_UP MES diff / P	C3_C5_EXPLORATORY.tsv	476.1564224468602 / 4.402038910988789e-05
+Fig2	C	C5 axis rho TCGA	temp/c3_data/_c5_axis_intermediate.tsv	0.5596011718891287
+Fig2	D	grades	C2_11_EVIDENCE_GRADES.tsv	C4_UP=A;C4_DOWN=A;C5_UP=C;C5_STABLE_UP=C;C5_DOWN=C;C5_STABLE_DOWN=C;M_shared_antiproliferative=A;M_shared_ER_UPR=A;M_shared_ER_UPR=B;M_HSF1_heat_shock=E;M_cholesterol_SREBP=A;M_autophagy_lysosome=B;M_TNF_NFkB=A;M_p53_apoptosis=A;M_RIGI_typeI_IFN=A;M_RIGI_typeI_IFN=D
+Fig2	A	comparator NES range (shared down)	temp/C1_focus_pathways.tsv	-2.61..2.85
+Fig2	A	GSE C4 E2F Targets NES	temp/C1_focus_pathways.tsv	-2.32
+Fig2	B	GSE C4 Cholesterol Homeostasis NES	temp/C1_focus_pathways.tsv	1.9
+Fig2	C	C5_UP MES diff / P	C3_C5_EXPLORATORY.tsv	476.1564224468602 / 4.402038910988789e-05
+Fig2	C	C5 axis rho TCGA	temp/c3_data/_c5_axis_intermediate.tsv	0.5596011718891287
+Fig2	D	grades	C2_11_EVIDENCE_GRADES.tsv	C4_UP=A;C4_DOWN=A;C5_UP=C;C5_STABLE_UP=C;C5_DOWN=C;C5_STABLE_DOWN=C;M_shared_antiproliferative=A;M_shared_ER_UPR=A;M_shared_ER_UPR=B;M_HSF1_heat_shock=E;M_cholesterol_SREBP=A;M_autophagy_lysosome=B;M_TNF_NFkB=A;M_p53_apoptosis=A;M_RIGI_typeI_IFN=A;M_RIGI_typeI_IFN=D
+Fig2	A	comparator NES range (shared down)	temp/C1_focus_pathways.tsv	-2.61..2.85
+Fig2	A	GSE C4 E2F Targets NES	temp/C1_focus_pathways.tsv	-2.32
+Fig2	B	GSE C4 Cholesterol Homeostasis NES	temp/C1_focus_pathways.tsv	1.9
+Fig2	C	C5_UP MES diff / P	C3_C5_EXPLORATORY.tsv	476.1564224468602 / 4.402038910988789e-05
+Fig2	C	C5 axis rho TCGA	temp/c3_data/_c5_axis_intermediate.tsv	0.5596011718891287
+Fig2	D	grades	C2_11_EVIDENCE_GRADES.tsv	C4_UP=A;C4_DOWN=A;C5_UP=C;C5_STABLE_UP=C;C5_DOWN=C;C5_STABLE_DOWN=C;M_shared_antiproliferative=A;M_shared_ER_UPR=A;M_shared_ER_UPR=B;M_HSF1_heat_shock=E;M_cholesterol_SREBP=A;M_autophagy_lysosome=B;M_TNF_NFkB=A;M_p53_apoptosis=A;M_RIGI_typeI_IFN=A;M_RIGI_typeI_IFN=D
+Fig2	A	comparator NES range (shared down)	temp/C1_focus_pathways.tsv	-2.61..2.85
+Fig2	A	GSE C4 E2F Targets NES	temp/C1_focus_pathways.tsv	-2.32
+Fig2	B	GSE C4 Cholesterol Homeostasis NES	temp/C1_focus_pathways.tsv	1.9
+Fig2	C	C5_UP MES diff / P	C3_C5_EXPLORATORY.tsv	476.1564224468602 / 4.402038910988789e-05
+Fig2	C	C5 axis rho TCGA	temp/c3_data/_c5_axis_intermediate.tsv	0.5596011718891287
+Fig2	D	grades	C2_11_EVIDENCE_GRADES.tsv	C4_UP=A;C4_DOWN=A;C5_UP=C;C5_STABLE_UP=C;C5_DOWN=C;C5_STABLE_DOWN=C;M_shared_antiproliferative=A;M_shared_ER_UPR=A;M_shared_ER_UPR=B;M_HSF1_heat_shock=E;M_cholesterol_SREBP=A;M_autophagy_lysosome=B;M_TNF_NFkB=A;M_p53_apoptosis=A;M_RIGI_typeI_IFN=A;M_RIGI_typeI_IFN=D

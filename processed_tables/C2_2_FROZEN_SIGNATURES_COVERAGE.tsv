@@ -1,0 +1,15 @@
+signature	direction	source	original_n_ENSG	n_unique_symbol	detected_Neftel_SS2	cov_Neftel_SS2_pct	detected_Neftel_10X	cov_Neftel_10X_pct	detected_Couturier	cov_Couturier_pct
+C4_UP	UP	B3.5 R/DESeq2 C4 FDR<0.05 log2FC>0	2545.0	2490	2192	88.0	2198	88.3	2241	90.0
+C4_DOWN	DOWN	B3.5 R/DESeq2 C4 FDR<0.05 log2FC<0	2797.0	2697	2349	87.1	2351	87.2	2395	88.8
+C5_UP	UP	B3.5 R/DESeq2 C5 FDR<0.05 log2FC>0	830.0	805	723	89.8	719	89.3	740	91.9
+C5_DOWN	DOWN	B3.5 R/DESeq2 C5 FDR<0.05 log2FC<0	1099.0	1064	915	86.0	913	85.8	927	87.1
+C5_STABLE_UP	UP	B3.6 stable 1602 both-model FDR<0.05 same-direction; dir by R C5 r_log2FC	682.0	679	615	90.6	617	90.9	633	93.2
+C5_STABLE_DOWN	DOWN	B3.6 stable 1602 both-model FDR<0.05 same-direction; dir by R C5 r_log2FC	920.0	911	790	86.7	789	86.6	798	87.6
+M_shared_antiproliferative	module	C1 shared: HM E2F+MYC_V1+G2M		480	463	96.5	461	96.0	463	96.5
+M_shared_ER_UPR	module	C1 shared: HM UPR + RT UPR R-HSA-381119		151	143	94.7	143	94.7	147	97.4
+M_HSF1_heat_shock	module	C1 HITMAN-enriched: RT HSF1 R-HSA-3371453/3371511/3371571		99	93	93.9	95	96.0	96	97.0
+M_cholesterol_SREBP	module	C1 HITMAN-enriched: HM CHOLESTEROL + RT 191273/1655829		121	118	97.5	118	97.5	120	99.2
+M_autophagy_lysosome	module	C1 HITMAN-enriched: RT Macroautophagy 1632852 + Lysosome 432720		146	142	97.3	142	97.3	144	98.6
+M_TNF_NFkB	module	C1 HITMAN-enriched: HM TNFA_NFKB + RT TNFR1-NFkB 5357956		220	216	98.2	217	98.6	218	99.1
+M_p53_apoptosis	module	C1 divergent: HM P53 + HM APOPTOSIS		340	329	96.8	329	96.8	332	97.6
+M_RIGI_typeI_IFN	module	C1 HITMAN-enriched: RT DDX58/IFIH1 168928 + IFNab 909733		136	133	97.8	133	97.8	134	98.5

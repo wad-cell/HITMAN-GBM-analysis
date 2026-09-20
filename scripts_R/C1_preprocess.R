@@ -1,0 +1,21 @@
+suppressMessages({
+  library(oligo); library(pd.clariom.s.human); library(Biobase)
+})
+options(warn=1)
+base <- "${PROJECT_ROOT}"
+rawdir <- file.path(base, "temp", "EMTAB9043_raw")
+smap <- read.csv(file.path(base, "temp", "C1_emt9043_sample_map.csv"), stringsAsFactors=FALSE)
+cel_files <- file.path(rawdir, smap$cel_file)
+stopifnot(all(file.exists(cel_files)))
+cat("n_cel=", length(cel_files), "\n")
+pd <- data.frame(sample=basename(cel_files), cell_line=smap$cell_line, stimulus=smap$stimulus, stringsAsFactors=FALSE)
+rownames(pd) <- pd$sample
+phenoData <- new("AnnotatedDataFrame", data=pd)
+affyRaw <- read.celfiles(cel_files, phenoData=phenoData)
+cat("read_done dim=", dim(exprs(affyRaw)), "\n")
+eset <- rma(affyRaw)
+cat("rma_done dim=", dim(exprs(eset)), "\n")
+saveRDS(eset, file.path(base, "temp", "C1_eset_rma.rds"))
+write.csv(exprs(eset), file.path(base, "temp", "C1_expression_rma.csv"), quote=FALSE)
+cat("saved_eset\n")
+sessionInfo()
