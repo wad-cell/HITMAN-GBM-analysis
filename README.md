@@ -22,11 +22,10 @@ CODE_RELEASE/
 ├── processed_tables/                  # fixed processed, non-identifiable result tables (70 files)
 ├── qc_figures/                        # QC diagnostic plots retained for provenance (not manuscript figures)
 └── docs/
-    ├── LICENSE_TO_BE_SELECTED_BY_AUTHORS.txt
     └── vendor/_infercnv_src.py        # reference source excerpt kept for CNV-QC provenance
 ```
 The itemised inventory (path, category, status, SHA-256, source path, notes) is in
-`CODE_RELEASE_MANIFEST.tsv` (199 rows: 126 INCLUDED, 25 EXCLUDED, 45 MISSING, 3 NOT_REDISTRIBUTED).
+`CODE_RELEASE_MANIFEST.tsv` (435 data rows; 231 shipped files INCLUDED, 25 EXCLUDED).
 
 ---
 
@@ -126,8 +125,7 @@ Recorded SHA-256 of the cached copies used:
    No substitute script was written, because any re-written script would not be guaranteed to reproduce the
    frozen numbers exactly.
 3. Figure-assembly code for Fig1–Fig5 — no assembly script is retained in the workspace.
-4. `LICENSE` — not selected; requires an author decision.
-5. Repository DOI (GitHub/Zenodo) — none assigned or reserved; must not be fabricated.
+4. Repository DOI (GitHub/Zenodo) — none assigned or reserved; must not be fabricated.
 
 ---
 
@@ -156,8 +154,10 @@ to reproduce released results.
 
 ## 9. Licence and reuse
 
-No licence has been chosen. See `docs/LICENSE_TO_BE_SELECTED_BY_AUTHORS.txt`. Redistribution of the code/tables
-prior to a licence decision is not permitted. The external gene-set libraries in §5 remain under their own terms.
+Released under the **MIT License** — see `LICENSE` in the package root. The license covers the code and the
+processed, non-identifiable result tables. Copyright line: `Copyright (c) 2026 The HITMAN study authors`
+(confirm the final copyright holder before publication).
+The external gene-set libraries in §5 remain under their own terms.
 
 
 ---
@@ -174,12 +174,6 @@ numbering (`b3_*`, `B35_*`, `C1_*`, `c2_11_*`, `c3_*`, `frozen_signature_genes.t
 unchanged so that the package stays traceable to the analysis code and to the manifest.
 
 ---
-
-## 10. License
-
-Released under the **MIT License** — see `LICENSE` in the package root. The license covers the code and the
-processed, non-identifiable result tables. Copyright line: `Copyright (c) 2026 The HITMAN study authors`
-(confirm the final copyright holder before publication).
 
 ## 11. Figure provenance
 
@@ -203,8 +197,12 @@ The released masters are the assets produced by the frozen figure scripts; the r
 
 - Layout prepared for a GitHub repository mirrored to Zenodo: `README.md`, `LICENSE`, `CITATION.cff`,
   `.zenodo.json`, `manifest/` (checksums), `docs/`.
-- No URL and no DOI is asserted in this package: repository URL and Zenodo DOI are assigned at release time.
-- Author list / affiliation in `CITATION.cff` and `.zenodo.json` are placeholders to be finalised at release.
+- Repository: https://github.com/wad-cell/HITMAN-GBM-analysis (private until publication).
+- No DOI is asserted in this package: repository DOI is assigned at release time.
+- Author list / affiliation in `CITATION.cff` and `.zenodo.json` are final (Jing Deng, Ying Wang, Jiateng Zeng,
+  Lianghong Yu, Hongliang Ge — Department of Neurosurgery, Neurosurgery Research Institute, The First Affiliated
+  Hospital, Fujian Medical University, Fuzhou 350005, Fujian, China). ORCID, GitHub username(s), release date and
+  the final copyright holder remain to be supplied by the authors at publication.
 - Manuscript statement (Data Availability), compliant wording template — no figure-history language is required:
 
   > "All processed, non-identifiable result tables, analysis code and figure-generation scripts are provided in the
