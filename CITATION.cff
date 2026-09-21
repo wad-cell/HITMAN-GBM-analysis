@@ -24,6 +24,7 @@ authors:
     affiliation: "Department of Neurosurgery, Neurosurgery Research Institute, The First Affiliated Hospital, Fujian Medical University, Fuzhou 350005, Fujian, China."
     email: "yangguang5716@163.com"
 version: "1.0"
-date-released: "TODO"
-# AUTHOR INPUT REQUIRED: ORCID identifiers, GitHub username(s) and the final copyright holder are not asserted.
+date-released: "2026-09-21"
+# AUTHOR INPUT REQUIRED: ORCID identifiers and GitHub username(s) are not asserted (optional).
+# Copyright holder: Copyright (c) 2026 Jing Deng and contributors.
 # NOTE: repository URL and DOI are intentionally absent; they are assigned at release time.

@@ -155,8 +155,8 @@ to reproduce released results.
 ## 9. Licence and reuse
 
 Released under the **MIT License** — see `LICENSE` in the package root. The license covers the code and the
-processed, non-identifiable result tables. Copyright line: `Copyright (c) 2026 The HITMAN study authors`
-(confirm the final copyright holder before publication).
+processed, non-identifiable result tables. Copyright line: `Copyright (c) 2026 Jing Deng and contributors`
+(confirmed for publication).
 The external gene-set libraries in §5 remain under their own terms.
 
 
@@ -201,8 +201,8 @@ The released masters are the assets produced by the frozen figure scripts; the r
 - No DOI is asserted in this package: repository DOI is assigned at release time.
 - Author list / affiliation in `CITATION.cff` and `.zenodo.json` are final (Jing Deng, Ying Wang, Jiateng Zeng,
   Lianghong Yu, Hongliang Ge — Department of Neurosurgery, Neurosurgery Research Institute, The First Affiliated
-  Hospital, Fujian Medical University, Fuzhou 350005, Fujian, China). ORCID, GitHub username(s), release date and
-  the final copyright holder remain to be supplied by the authors at publication.
+  Hospital, Fujian Medical University, Fuzhou 350005, Fujian, China). Copyright holder: Copyright (c) 2026 Jing
+  Deng and contributors. Release date: 2026-09-21. ORCID and GitHub username(s) remain optional.
 - Manuscript statement (Data Availability), compliant wording template — no figure-history language is required:
 
   > "All processed, non-identifiable result tables, analysis code and figure-generation scripts are provided in the
